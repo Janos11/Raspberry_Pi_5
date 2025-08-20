@@ -12,14 +12,14 @@ It showcases my ability to self-start, learn new technologies, and organize a gr
 - [Bare Metal Services](#bare-metal-services)
 - [Monitoring & Tools](#monitoring--tools)
 - [Learning Notebook](#learning-notebook)
-- [Timeline](#timeline)
 - [Contact](#contact)
 
 ---
 
 ## Latest Updates
-- Migrated Samba from bare metal to Docker for portability and easier management.
 - Installed Portainer for container management.
+- Migrated Samba from bare metal to Docker for portability and easier management.
+- Installed Docker
 - Configured SSH and optimized Pi OS for development.
 
 ---
@@ -58,15 +58,6 @@ It showcases my ability to self-start, learn new technologies, and organize a gr
   - [raspberry_pi_linux_commands.md](https://github.com/Janos11/Raspberry_Pi_5/blob/main/notebooks/raspberry_pi_linux_commands.md)
   - `notebooks/docker-setup.md`
   - `notebooks/monitoring.md`
-
----
-
-## Timeline
-- Oldest → newest at the top:
-  1. Initial OS setup and SSH configuration.
-  2. First Docker install and basic container tests.
-  3. Transition to Dockerized Samba and Portainer.
-  4. Ongoing learning and new projects.
 
 ---
 
