@@ -55,6 +55,7 @@ It showcases my ability to self-start, learn new technologies, and organize a gr
 - Each service or experiment has its own file in `notebooks/` for easy reference.
 - Example files:
   - `notebooks/samba.md`
+  - [raspberry_pi_linux_commands.md](https://github.com/Janos11/Raspberry_Pi_5/blob/main/notebooks/raspberry_pi_linux_commands.md)
   - `notebooks/docker-setup.md`
   - `notebooks/monitoring.md`
 
