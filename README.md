@@ -26,7 +26,7 @@ It showcases my ability to self-start, learn new technologies, and organize a gr
 
 ## Docker Projects
 - Containerized services:
-  - Samba
+  - [Samba](notebooks/samba_setup_pi.md)
   - Portainer
   - Home Assistant (future)
 - All configurations stored with Docker Compose for reproducibility.
