@@ -62,6 +62,7 @@ It showcases my ability to self-start, learn new technologies, and organize a gr
 
 
 ---
+
 ## Contributors 🤝
 
 <table style="font-family: Arial, sans-serif; line-height: 1.6;">
