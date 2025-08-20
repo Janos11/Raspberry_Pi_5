@@ -12,7 +12,7 @@ It showcases my ability to self-start, learn new technologies, and organize a gr
 - [Bare Metal Services](#bare-metal-services)
 - [Monitoring & Tools](#monitoring--tools)
 - [Learning Notebook](#learning-notebook)
-- [Contact](#contact)
+- [Contributors](#contributors)
 
 ---
 
@@ -62,7 +62,7 @@ It showcases my ability to self-start, learn new technologies, and organize a gr
 
 
 ---
-## 🤝 Contributors
+## Contributors 🤝
 
 <table style="font-family: Arial, sans-serif; line-height: 1.6;">
   <tr>
