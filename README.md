@@ -30,7 +30,7 @@ It showcases my ability to self-start, learn new technologies, and organize a gr
   - Portainer
   - Home Assistant (future)
 - All configurations stored with Docker Compose for reproducibility.
-- [See Docker setup details](notebooks/docker-setup.md)
+- [See Docker setup details](notebooks/docker_setup_rpi_5.md)
 
 ---
 
