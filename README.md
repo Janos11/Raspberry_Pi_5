@@ -37,7 +37,8 @@ It showcases my ability to self-start, learn new technologies, and organize a gr
 ## Bare Metal Services
 - Initial experiments with:
   - SSH
-  - System monitoring tools
+  - git [git_cheat_sheet.md](https://github.com/Janos11/Robot_Web_Controller/blob/master/git_cheat_sheet.md)
+  - System monitoring tools [raspberry_pi_linux_commands.md](notebooks/raspberry_pi_linux_commands.md)
 - Learning how services interact natively on Raspberry Pi OS.
 
 ---
@@ -59,10 +60,28 @@ It showcases my ability to self-start, learn new technologies, and organize a gr
   - `notebooks/docker-setup.md`
   - `notebooks/monitoring.md`
 
+
 ---
+## 🤝 Contributors
 
-## Contact
-- [GitHub Profile](https://github.com/Janos11)  
-- [🔗 LinkedIn Profile](https://www.linkedin.com/in/janos-rostas)
-- Email: rostas881122@gmail.com
-
+<table style="font-family: Arial, sans-serif; line-height: 1.6;">
+  <tr>
+    <td><strong>János Rostás</strong></td>
+    <td>
+      👨‍💻 Electronic & Computer Engineer<br>
+      🛠️ Tinkerer with a Purpose<br>
+      🐳 Docker Enthusiast<br>
+      🌐 <a href="https://janosrostas.co.uk" target="_blank">janosrostas.co.uk</a><br>
+      🔗 <a href="https://www.linkedin.com/in/janos-rostas/" target="_blank">LinkedIn</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>ChatGPT</strong></td>
+    <td>
+      🤖 AI Pair Programmer by OpenAI<br>
+      💡 Supports brainstorming, prototyping, and debugging<br>
+      📚 Backed by years of programming knowledge and best practices
+    </td>
+  </tr>
+</table>
+  
