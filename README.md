@@ -52,13 +52,12 @@ It showcases my ability to self-start, learn new technologies, and organize a gr
 ---
 
 ## Learning Notebook
-- Structured as a timeline of experiments, lessons, and configs.
+- Experiments, lessons, and configs.
 - Each service or experiment has its own file in `notebooks/` for easy reference.
-- Example files:
-  - `notebooks/samba.md`
-  - [raspberry_pi_linux_commands.md](https://github.com/Janos11/Raspberry_Pi_5/blob/main/notebooks/raspberry_pi_linux_commands.md)
-  - `notebooks/docker-setup.md`
-  - `notebooks/monitoring.md`
+- Mark Down files:
+  - [notebooks/raspberry_pi_linux_commands.md](notebooks/raspberry_pi_linux_commands.md)
+  - [notebooks/samba_setup_pi.md](notebooks/samba_setup_pi.md)
+  - [notebooks/docker_setup_rpi_5.md](notebooks/docker_setup_rpi_5.md)
 
 
 ---
