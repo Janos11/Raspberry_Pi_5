@@ -12,10 +12,10 @@ services:
       - USERID=1000
       - GROUPID=1001
     volumes:
-      - /media/pi:/mnt/pi5_media
+      - /media/pi:/mnt/Pi5_media
       - /home/pi/:/mnt/Pi5_home
     command: >
       -u "pi;raspberry"
-      -s "pi5_media;/mnt/pi5_media;yes;yes;yes;pi;rw;force user = pi, force group = sharedmedia"
+      -s "Pi5_media;/mnt/Pi5_media;yes;yes;yes;pi;rw;force user = pi, force group = sharedmedia"
       -s "Pi5_home;/mnt/Pi5_home;yes;yes;yes;pi;rw;force user = pi, force group = sharedmedia"
     network_mode: bridge
