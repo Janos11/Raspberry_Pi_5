@@ -1,7 +1,0 @@
-Dec 25, 2025 02:15:39.516 [140734958300664] INFO - Plex Media Scanner v1.42.2.10156-f737b826c - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 00:00
-Dec 25, 2025 02:15:39.516 [140734958300664] INFO - Linux version: 6.12.47+rpt-rpi-2712, language: en-US
-Dec 25, 2025 02:15:39.516 [140734958300664] INFO - Processor: 4-core ARM Cortex-A76
-Dec 25, 2025 02:15:39.516 [140734958300664] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --match --type 1 --log-file-suffix  Matcher --item 564 --content-type=application/json
-Dec 25, 2025 02:15:39.517 [140735039056184] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
-Dec 25, 2025 02:15:39.599 [140735039056184] DEBUG - Matcher: found 1 auxiliary files for Avatar: Tűz és Hamu
-Dec 25, 2025 02:15:39.599 [140735039056184] DEBUG - Matcher: no sidecar subtitle files found for /data/Filmek/Avatar.Tuz.es.hamu.2025.CAMrip.x264.MD.HUN-SSD/Avatar.Tuz.es.hamu.2025.CAMrip.x264.MD.HUN-SSD.mkv

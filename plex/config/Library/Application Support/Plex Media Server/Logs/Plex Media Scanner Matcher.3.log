@@ -1,6 +1,0 @@
-Dec 23, 2025 05:00:56.948 [140736213511672] INFO - Plex Media Scanner v1.42.2.10156-f737b826c - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 00:00
-Dec 23, 2025 05:00:56.948 [140736213511672] INFO - Linux version: 6.12.47+rpt-rpi-2712, language: en-US
-Dec 23, 2025 05:00:56.949 [140736213511672] INFO - Processor: 4-core ARM Cortex-A76
-Dec 23, 2025 05:00:56.949 [140736213511672] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --match --type 1 --log-file-suffix  Matcher --item 16 --content-type=application/json
-Dec 23, 2025 05:00:56.949 [140736294267192] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
-Dec 23, 2025 05:00:57.035 [140736294267192] DEBUG - Matcher: found 1 auxiliary files for Frankenstein

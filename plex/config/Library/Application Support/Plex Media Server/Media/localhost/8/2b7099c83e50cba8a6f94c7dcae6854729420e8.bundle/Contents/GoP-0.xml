@@ -1,7 +1,0 @@
-<VideoStream timebaseNumerator="1" timebaseDenomenator="600">
-<Group pts="0" duration="580" size="966943" />
-<Group pts="640" duration="640" size="1160489" />
-<Group pts="1281" duration="640" size="1122710" />
-<Group pts="1921" duration="640" size="1115159" />
-<Group pts="2561" duration="440" size="810565" />
-</VideoStream>

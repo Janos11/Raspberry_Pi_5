@@ -1,9 +1,0 @@
-Dec 22, 2025 15:21:27.938 [140732680203768] INFO - Plex Media Scanner v1.42.2.10156-f737b826c - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 00:00
-Dec 22, 2025 15:21:27.938 [140732680203768] INFO - Linux version: 6.12.47+rpt-rpi-2712, language: en-US
-Dec 22, 2025 15:21:27.938 [140732680203768] INFO - Processor: 4-core ARM Cortex-A76
-Dec 22, 2025 15:21:27.938 [140732680203768] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --match --type 1 --log-file-suffix  Matcher --item 556 --content-type=application/json
-Dec 22, 2025 15:21:27.939 [140732760959288] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
-Dec 22, 2025 15:21:28.026 [140732760959288] DEBUG - Matcher: found 1 auxiliary files for A nagy árvíz
-Dec 22, 2025 15:21:28.026 [140732760959288] DEBUG - Matcher: no sidecar subtitle files found for /data/Filmek/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD.mkv
-Dec 22, 2025 15:21:28.026 [140732760959288] DEBUG - Matcher: found 1 auxiliary files for A nagy árvíz
-Dec 22, 2025 15:21:28.027 [140732760959288] DEBUG - Matcher: no sidecar subtitle files found for /data/Filmek/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD/Minta/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD.mkv
