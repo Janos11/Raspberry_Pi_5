@@ -1,5 +1,0 @@
-{"timestamp":"2025-12-22 16:12:07.474","source":"SocketAuthority.js:176","message":"[SocketAuthority] Socket Connected to /audiobookshelf/socket.io 7SCcsubxlUAKISnTAAAD","levelName":"INFO","level":2}
-{"timestamp":"2025-12-22 16:12:17.393","source":"SocketAuthority.js:207","message":"[SocketAuthority] Socket 7SCcsubxlUAKISnTAAAD disconnected from client \"root\" after 9919ms (Reason: transport close)","levelName":"INFO","level":2}
-{"timestamp":"2025-12-22 17:24:37.804","source":"SocketAuthority.js:200","message":"[SocketAuthority] Unauth socket vypR5Mq_Kyi1u4KgAAAB disconnected (Reason: transport close)","levelName":"INFO","level":2}
-{"timestamp":"2025-12-22 17:24:38.907","source":"SocketAuthority.js:176","message":"[SocketAuthority] Socket Connected to /audiobookshelf/socket.io fEH6tYsBzesPGfYRAAAF","levelName":"INFO","level":2}
-{"timestamp":"2025-12-22 18:10:22.978","source":"SocketAuthority.js:176","message":"[SocketAuthority] Socket Connected to /audiobookshelf/socket.io dDLLpXTOO4PBSA0oAAAH","levelName":"INFO","level":2}
