@@ -19,6 +19,7 @@ It showcases my ability to self-start, learn new technologies, and organize a gr
 ## Latest Updates
 - Installed Portainer for container management.
 - Solved a Raspberry Pi wifi power save issue, details [here](notebooks/raspberry-pi-wifi-power-save-issue.md)
+- Installed [Plex Media Server](notebooks/plex_Docker_install_guide.md)
 - Migrated Samba from bare metal to Docker for portability and easier management.
 - Installed Docker
 - Configured SSH and optimized Pi OS for development.
@@ -27,6 +28,7 @@ It showcases my ability to self-start, learn new technologies, and organize a gr
 
 ## Docker Projects
 - Containerized services:
+  - [Plex](notebooks/plex_Docker_install_guide.md)
   - [Samba](notebooks/samba_setup_pi.md)
   - [Pi Hole](notebooks/pi_hole_setup.md)
   - Portainer
