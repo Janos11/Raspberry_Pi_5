@@ -1,0 +1,31 @@
+<SessionReport version="2" startTime="0" startTimestamp="Dec 24, 2025 14:45:28.244" key="/library/metadata/564" session="l8rhuct5eh6nyixz4er23il6" transcode="gk6trz7775folj1rt0gckk5b">
+<User id="1" thumb="https://plex.tv/users/a4b2edb13f508413/avatar?c=1766473066" title="rostas44" />
+<Player address="192.168.1.184" device="iOS" machineIdentifier="zbmq9ez5zpgagv05yhtshzq0" model="bundled" platform="Chrome" platformVersion="143.0" playbackId="fcba4f8d-1d0b-4b1d-827a-6a9941c161f9" playbackSessionId="1913b998-a716-477e-8078-5019998004cd" product="Plex Web" remotePublicAddress="3.99.160.149" title="Chrome" version="4.147.1" local="1" relayed="0" secure="1" userID="1" />
+<Variants>
+<Variant id="687fc422-68f4-4fac-a99a-4abc0f158798" targetBitrate="3373" context="streaming" sourceVideoCodec="h264" sourceAudioCodec="ac3" videoDecision="copy" audioDecision="transcode" protocol="dash" container="mp4" videoCodec="h264" audioCodec="aac" audioChannels="2" transcodeHwRequested="0" transcodeHwFullPipeline="0">
+<Media id="683" videoProfile="high" audioChannels="2" audioCodec="aac" bitrate="1734" container="mp4" duration="11822185" height="306" optimizedForStreaming="1" protocol="dash" videoCodec="h264" videoFrameRate="24p" videoResolution="SD" width="720" selected="1">
+<Part id="683" videoProfile="high" bitrate="1734" container="mp4" duration="11822185" height="306" optimizedForStreaming="1" protocol="dash" width="720" decision="transcode" selected="1">
+<Stream bitDepth="8" bitrate="1478" chromaLocation="left" chromaSubsampling="4:2:0" codec="h264" codedHeight="320" codedWidth="720" default="1" displayTitle="SD" extendedDisplayTitle="SD (H.264)" frameRate="24" hasScalingMatrix="0" height="306" id="744" level="41" profile="high" refFrames="9" scanType="progressive" streamType="1" width="720" decision="copy" location="segments-video" />
+<Stream bitrate="256" bitrateMode="cbr" channels="2" codec="aac" default="1" displayTitle="magyar (AC3 Stereo)" extendedDisplayTitle="magyar (AC3 Stereo)" id="745" language="magyar" languageCode="hun" languageTag="hu" selected="1" streamType="2" decision="transcode" location="segments-audio" />
+</Part>
+</Media>
+</Variant>
+</Variants>
+<SegmentList>
+<Segment duration="9999" startOffset="0" endOffset="9999">
+<File name="chunk-stream0-00001.m4s" type="video">
+<FileVariant size="1793387" variant="687fc422-68f4-4fac-a99a-4abc0f158798" />
+</File>
+<File name="chunk-stream1-00001.m4s" type="audio">
+<FileVariant size="285011" variant="687fc422-68f4-4fac-a99a-4abc0f158798" />
+</File>
+<Timelines>
+<Transcode startTime="39" endTime="587" complete="1" fileType="video" variant="687fc422-68f4-4fac-a99a-4abc0f158798" />
+<Transcode startTime="39" endTime="587" complete="1" fileType="audio" variant="687fc422-68f4-4fac-a99a-4abc0f158798" />
+</Timelines>
+</Segment>
+</SegmentList>
+<PlaybackReports />
+<StateReports />
+<StateReports />
+</SessionReport>

@@ -1,0 +1,672 @@
+Dec 22, 2025 02:02:34.280 [140734489390584] INFO - Plex Media Scanner v1.42.2.10156-f737b826c - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 00:00
+Dec 22, 2025 02:02:34.281 [140734489390584] INFO - Linux version: 6.12.47+rpt-rpi-2712, language: en-US
+Dec 22, 2025 02:02:34.281 [140734489390584] INFO - Processor: 4-core ARM Cortex-A76
+Dec 22, 2025 02:02:34.281 [140734489390584] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --generate --chapter-thumbs-only --item 552 --log-file-suffix  Chapter Thumbnails --force
+Dec 22, 2025 02:02:34.282 [140734570146104] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+Dec 22, 2025 02:02:34.384 [140734570146104] DEBUG - [MI] Opening input file: "/data/Filmek/Sisu.Road.to.Revenge.2025.MA.WEBRip.x264.HUN-FULCRUM/fulcrum-sisu.road.to.revenge.2025.webrip.ma.mkv"
+Dec 22, 2025 02:02:34.384 [140734570146104] DEBUG - [FFMPEG] - Opening '/data/Filmek/Sisu.Road.to.Revenge.2025.MA.WEBRip.x264.HUN-FULCRUM/fulcrum-sisu.road.to.revenge.2025.webrip.ma.mkv' for reading
+Dec 22, 2025 02:02:34.384 [140734570146104] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4441
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4527
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4600
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4660
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4704
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - Unknown entry 0x22B59D at pos. 4748
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 6041
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 6093
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 6145
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 6197
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 6250
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 6303
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 6356
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 6409
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 6462
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 6515
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 6568
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 6621
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 6674
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 6727
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 6780
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - Unknown entry 0x437D at pos. 6833
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - st:4 removing common factor 1000000 from timebase
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - st:5 removing common factor 1000000 from timebase
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 6945 bytes read:34713 seeks:2 nb_streams:6
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.385 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.386 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.387 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.387 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Dec 22, 2025 02:02:34.387 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.387 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.387 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.387 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.387 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.388 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.388 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Dec 22, 2025 02:02:34.389 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Dec 22, 2025 02:02:34.389 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Dec 22, 2025 02:02:34.390 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Dec 22, 2025 02:02:34.390 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Dec 22, 2025 02:02:34.390 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Dec 22, 2025 02:02:34.391 [140734570146104] DEBUG - [FFMPEG] - All info found
+Dec 22, 2025 02:02:34.391 [140734570146104] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 8717 bytes read:67481 seeks:2 frames:50
+Dec 22, 2025 02:02:34.391 [140734570146104] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter1.jpg (0.0%, 1280x720).
+Dec 22, 2025 02:02:34.391 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.391 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.392 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.392 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.393 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Dec 22, 2025 02:02:34.393 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.393 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.393 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.393 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.393 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.394 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.395 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:34.401 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:34.408 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.408 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.408 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.408 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.408 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Dec 22, 2025 02:02:34.408 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.408 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.408 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.409 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.409 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.409 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.410 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:34.416 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:34.423 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.423 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.423 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.423 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.424 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Dec 22, 2025 02:02:34.424 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.424 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.424 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.424 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.424 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.424 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.426 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:34.432 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:34.439 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.439 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.439 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.439 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.439 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Dec 22, 2025 02:02:34.439 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.439 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.439 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.439 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.439 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.440 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.441 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:34.447 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:34.454 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.454 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.454 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.454 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.454 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Dec 22, 2025 02:02:34.454 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.454 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.455 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.455 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.455 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.455 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.456 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:34.463 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:34.469 [140734570146104] DEBUG - Skipped thumbnail for metadata item 552, media item 655 for chapter number 1:0
+Dec 22, 2025 02:02:34.469 [140734570146104] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter2.jpg (5.4%, 1280x720).
+Dec 22, 2025 02:02:34.470 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.470 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.470 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.470 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.470 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.470 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.470 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.477 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.477 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.482 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.485 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:34.492 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:34.501 [140734570146104] DEBUG - Created chapter thumbnail for metadata item 552, media item 655 for chapter number 2:289247 at "/config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter2.jpg"
+Dec 22, 2025 02:02:34.501 [140734570146104] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter3.jpg (13.2%, 1280x720).
+Dec 22, 2025 02:02:34.501 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.501 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.504 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.504 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.504 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.504 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.504 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.508 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.509 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.511 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.514 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:34.521 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:34.530 [140734570146104] DEBUG - Created chapter thumbnail for metadata item 552, media item 655 for chapter number 3:704579 at "/config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter3.jpg"
+Dec 22, 2025 02:02:34.530 [140734570146104] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter4.jpg (19.7%, 1280x720).
+Dec 22, 2025 02:02:34.530 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.530 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.531 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.531 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.531 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.531 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.531 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.536 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.536 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.540 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.543 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:34.549 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:34.557 [140734570146104] DEBUG - Created chapter thumbnail for metadata item 552, media item 655 for chapter number 4:1053390 at "/config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter4.jpg"
+Dec 22, 2025 02:02:34.557 [140734570146104] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter5.jpg (24.1%, 1280x720).
+Dec 22, 2025 02:02:34.557 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.557 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.558 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.559 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.559 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.559 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.559 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.565 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.566 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.569 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.572 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:34.578 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:34.587 [140734570146104] DEBUG - Created chapter thumbnail for metadata item 552, media item 655 for chapter number 5:1288000 at "/config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter5.jpg"
+Dec 22, 2025 02:02:34.587 [140734570146104] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter6.jpg (32.4%, 1280x720).
+Dec 22, 2025 02:02:34.587 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.587 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.588 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.588 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.588 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.588 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.589 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.599 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.599 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.600 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.604 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:34.610 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:34.620 [140734570146104] DEBUG - Created chapter thumbnail for metadata item 552, media item 655 for chapter number 6:1732440 at "/config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter6.jpg"
+Dec 22, 2025 02:02:34.620 [140734570146104] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter7.jpg (37.9%, 1280x720).
+Dec 22, 2025 02:02:34.620 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.620 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.621 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.621 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.621 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.621 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.621 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.631 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.631 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.632 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.634 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:34.640 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:34.650 [140734570146104] DEBUG - Created chapter thumbnail for metadata item 552, media item 655 for chapter number 7:2027570 at "/config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter7.jpg"
+Dec 22, 2025 02:02:34.650 [140734570146104] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter8.jpg (43.1%, 1280x720).
+Dec 22, 2025 02:02:34.650 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.650 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.651 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.651 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.651 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.651 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.651 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.654 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.654 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.654 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.655 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:34.661 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:34.668 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.668 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.668 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.668 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.668 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.668 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.669 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.671 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.671 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.672 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.673 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:34.679 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:34.686 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.686 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.686 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.686 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.686 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.686 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.686 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.689 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.689 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.690 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.691 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:34.697 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:34.704 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.704 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.704 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.704 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.704 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.704 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.704 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.707 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.707 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.707 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.709 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:34.715 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:34.722 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.722 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.722 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.722 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.722 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.722 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.722 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.725 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.725 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.725 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.727 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:34.733 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:34.739 [140734570146104] DEBUG - Skipped thumbnail for metadata item 552, media item 655 for chapter number 8:2308180
+Dec 22, 2025 02:02:34.739 [140734570146104] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter9.jpg (49.2%, 1280x720).
+Dec 22, 2025 02:02:34.740 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.740 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.741 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.741 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.741 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.741 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.741 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.749 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.749 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.752 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.754 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:34.760 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:34.769 [140734570146104] DEBUG - Created chapter thumbnail for metadata item 552, media item 655 for chapter number 9:2630800 at "/config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter9.jpg"
+Dec 22, 2025 02:02:34.769 [140734570146104] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter10.jpg (56.3%, 1280x720).
+Dec 22, 2025 02:02:34.770 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.770 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.770 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.770 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.770 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.770 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.770 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.773 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.773 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.774 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.775 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:34.781 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:34.789 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.789 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.789 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.789 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.789 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.789 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.789 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.792 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.792 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.793 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.794 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:34.800 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:34.807 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.807 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.807 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.807 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.807 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.807 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.807 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.810 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.810 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.811 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.812 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:34.819 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:34.825 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.825 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.826 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.826 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.826 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.826 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.826 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.829 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.829 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.829 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.831 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:34.837 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:34.843 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.843 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.844 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.844 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.844 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.844 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.844 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.847 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.847 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.847 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.849 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:34.855 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:34.861 [140734570146104] DEBUG - Skipped thumbnail for metadata item 552, media item 655 for chapter number 10:3014060
+Dec 22, 2025 02:02:34.861 [140734570146104] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter11.jpg (63.1%, 1280x720).
+Dec 22, 2025 02:02:34.862 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.862 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.863 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.863 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.863 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.863 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.863 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.868 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.868 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.871 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.874 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:34.880 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:34.888 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.888 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.888 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.888 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.888 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.888 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.888 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.893 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.893 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.896 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.899 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:34.905 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:34.913 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.913 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.914 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.914 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.914 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.914 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.914 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.918 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.919 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.922 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.925 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:34.931 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:34.939 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.939 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.939 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.939 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.939 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.939 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.939 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.944 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.944 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.947 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.950 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:34.956 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:34.964 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.964 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.964 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.964 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.965 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.965 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.965 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.969 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.969 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.973 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.975 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:34.982 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:34.989 [140734570146104] DEBUG - Created chapter thumbnail for metadata item 552, media item 655 for chapter number 11:3375330 at "/config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter11.jpg"
+Dec 22, 2025 02:02:34.990 [140734570146104] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter12.jpg (66.4%, 1280x720).
+Dec 22, 2025 02:02:34.990 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.990 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.991 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.991 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.991 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:34.991 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:34.991 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:34.997 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:34.997 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.001 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.004 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:35.010 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:35.019 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.019 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.019 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.019 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.019 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.019 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:35.019 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.025 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.025 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.028 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.031 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:35.038 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:35.046 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.046 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.046 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.046 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.047 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.047 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:35.047 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.052 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.053 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.056 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.059 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:35.066 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:35.074 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.074 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.074 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.074 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.074 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.074 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:35.075 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.080 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.081 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.084 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.087 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:35.094 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:35.102 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.102 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.102 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.102 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.102 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.103 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:35.103 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.108 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.109 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.112 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.115 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:35.121 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:35.130 [140734570146104] DEBUG - Created chapter thumbnail for metadata item 552, media item 655 for chapter number 12:3554050 at "/config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter12.jpg"
+Dec 22, 2025 02:02:35.130 [140734570146104] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter13.jpg (75.4%, 1280x720).
+Dec 22, 2025 02:02:35.130 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.130 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.132 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.132 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.132 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.132 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:35.132 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.138 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.138 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.142 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.146 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:35.152 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:35.160 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.160 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.160 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.160 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.161 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.161 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:35.161 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.167 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.167 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.171 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.175 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:35.181 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:35.189 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.189 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.189 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.189 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.190 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.190 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:35.190 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.196 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.196 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.200 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.203 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:35.210 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:35.218 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.218 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.218 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.218 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.218 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.218 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:35.219 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.225 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.225 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.229 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.232 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:35.239 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:35.247 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.247 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.247 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.247 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.247 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.247 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:35.247 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.253 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.253 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.257 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.261 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:35.267 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:35.275 [140734570146104] DEBUG - Created chapter thumbnail for metadata item 552, media item 655 for chapter number 13:4034990 at "/config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter13.jpg"
+Dec 22, 2025 02:02:35.275 [140734570146104] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter14.jpg (80.1%, 1280x720).
+Dec 22, 2025 02:02:35.276 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.276 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.276 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.276 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.277 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.277 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:35.277 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.282 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.283 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.286 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.289 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:35.295 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:35.303 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.303 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.303 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.303 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.304 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.304 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:35.304 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.309 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.309 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.312 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.315 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:35.321 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:35.330 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.330 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.330 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.330 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.330 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.330 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:35.330 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.335 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.336 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.339 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.342 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:35.348 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:35.356 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.356 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.357 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.357 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.357 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.357 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:35.357 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.362 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.362 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.366 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.369 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:35.375 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:35.383 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.383 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.383 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.383 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.383 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.383 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:35.383 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.389 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.389 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.392 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.395 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:35.401 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:35.410 [140734570146104] DEBUG - Created chapter thumbnail for metadata item 552, media item 655 for chapter number 14:4286080 at "/config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter14.jpg"
+Dec 22, 2025 02:02:35.410 [140734570146104] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter15.jpg (87.4%, 1280x720).
+Dec 22, 2025 02:02:35.410 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.410 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.411 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.411 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.411 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.411 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:35.411 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.417 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.417 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.420 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.423 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:35.429 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:35.437 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.437 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.437 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.437 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.438 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.438 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:35.438 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.444 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.444 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.447 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.449 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:35.456 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:35.464 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.464 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.464 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.464 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.464 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.464 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:35.464 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.470 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.470 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.473 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.476 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:35.482 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:35.490 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.491 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.491 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.491 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.491 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.491 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:35.491 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.497 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.497 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.500 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.503 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:35.509 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:35.517 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.517 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.517 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.517 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.517 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.517 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:35.517 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.523 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.523 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.526 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.529 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:35.535 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:35.544 [140734570146104] DEBUG - Created chapter thumbnail for metadata item 552, media item 655 for chapter number 15:4677470 at "/config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter15.jpg"
+Dec 22, 2025 02:02:35.544 [140734570146104] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter16.jpg (92.9%, 1280x720).
+Dec 22, 2025 02:02:35.544 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.544 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.545 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.545 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.545 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 02:02:35.545 [140734570146104] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 02:02:35.545 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.552 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.552 [140734570146104] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 02:02:35.555 [140734570146104] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 02:02:35.558 [140734570146104] WARN - [FFMPEG] - No accelerated colorspace conversion found from yuv420p to rgb24.
+Dec 22, 2025 02:02:35.564 [140734570146104] DEBUG - Loaded memory image of size 720x302.
+Dec 22, 2025 02:02:35.573 [140734570146104] DEBUG - Created chapter thumbnail for metadata item 552, media item 655 for chapter number 16:4970260 at "/config/Library/Application Support/Plex Media Server/Media/localhost/4/66d03c2e899ae850cd328e69a27874f9c96be39.bundle/Contents/Chapters/chapter16.jpg"
+Dec 22, 2025 02:02:35.573 [140734570146104] DEBUG - [MI] Closing input file: "/data/Filmek/Sisu.Road.to.Revenge.2025.MA.WEBRip.x264.HUN-FULCRUM/fulcrum-sisu.road.to.revenge.2025.webrip.ma.mkv"
+Dec 22, 2025 02:02:35.573 [140734570146104] DEBUG - Generated new chapter thumbnails for Sisu - A bosszú útja.

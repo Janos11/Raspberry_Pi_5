@@ -1,0 +1,21 @@
+services:
+  samba:
+    image: dperson/samba
+    container_name: samba
+    restart: unless-stopped
+    ports:
+      - "137:137/udp"
+      - "138:138/udp"
+      - "139:139/tcp"
+      - "445:445/tcp"
+    environment:
+      - USERID=1000
+      - GROUPID=1001
+    volumes:
+      - /media/pi:/mnt/Pi5_media
+      - /home/pi/:/mnt/Pi5_home
+    command: >
+      -u "pi;raspberry"
+      -s "Pi5_media;/mnt/Pi5_media;yes;yes;yes;pi;rw;force user = pi, force group = sharedmedia"
+      -s "Pi5_home;/mnt/Pi5_home;yes;yes;yes;pi;rw;force user = pi, force group = sharedmedia"
+    network_mode: bridge

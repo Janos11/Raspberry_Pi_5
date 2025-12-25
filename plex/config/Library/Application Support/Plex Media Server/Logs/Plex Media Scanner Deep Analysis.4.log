@@ -1,0 +1,124 @@
+Dec 23, 2025 02:02:39.489 [140732429594104] INFO - Plex Media Scanner v1.42.2.10156-f737b826c - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 00:00
+Dec 23, 2025 02:02:39.489 [140732429594104] INFO - Linux version: 6.12.47+rpt-rpi-2712, language: en-US
+Dec 23, 2025 02:02:39.489 [140732429594104] INFO - Processor: 4-core ARM Cortex-A76
+Dec 23, 2025 02:02:39.489 [140732429594104] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze-deeply --item 556 --log-file-suffix  Deep Analysis
+Dec 23, 2025 02:02:39.489 [140732510349624] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+Dec 23, 2025 02:02:39.572 [140732510349624] DEBUG - [MI] Opening input file: "/data/Filmek/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD.mkv"
+Dec 23, 2025 02:02:39.572 [140732510349624] DEBUG - [FFMPEG] - Opening '/data/Filmek/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD.mkv' for reading
+Dec 23, 2025 02:02:39.572 [140732510349624] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Dec 23, 2025 02:02:39.572 [140732510349624] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Dec 23, 2025 02:02:39.572 [140732510349624] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Dec 23, 2025 02:02:39.572 [140732510349624] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Dec 23, 2025 02:02:39.572 [140732510349624] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Dec 23, 2025 02:02:39.572 [140732510349624] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Dec 23, 2025 02:02:39.572 [140732510349624] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 5742 bytes read:34318 seeks:2 nb_streams:4
+Dec 23, 2025 02:02:39.573 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 23, 2025 02:02:39.573 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 23, 2025 02:02:39.573 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 23, 2025 02:02:39.573 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 23, 2025 02:02:39.573 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 23, 2025 02:02:39.573 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 23, 2025 02:02:39.573 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Dec 23, 2025 02:02:39.573 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 23, 2025 02:02:39.573 [140732510349624] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 23, 2025 02:02:39.574 [140732510349624] DEBUG - [FFMPEG] - no picture 
+Dec 23, 2025 02:02:39.577 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 23, 2025 02:02:39.578 [140732510349624] DEBUG - [FFMPEG] - no picture 
+Dec 23, 2025 02:02:39.579 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 23, 2025 02:02:39.582 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Dec 23, 2025 02:02:39.584 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Dec 23, 2025 02:02:39.587 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Dec 23, 2025 02:02:39.588 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Dec 23, 2025 02:02:39.590 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 23, 2025 02:02:39.592 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 23, 2025 02:02:39.594 [140732510349624] DEBUG - [FFMPEG] - All info found
+Dec 23, 2025 02:02:39.594 [140732510349624] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 65129 bytes read:99854 seeks:2 frames:25
+Dec 23, 2025 02:02:40.079 [140732510349624] DEBUG - Deep Analysis: Read 10000 packets at 180.544000
+Dec 23, 2025 02:02:40.526 [140732510349624] DEBUG - Deep Analysis: Read 20000 packets at 360.652000
+Dec 23, 2025 02:02:40.968 [140732510349624] DEBUG - Deep Analysis: Read 30000 packets at 540.915000
+Dec 23, 2025 02:02:41.421 [140732510349624] DEBUG - Deep Analysis: Read 40000 packets at 721.387000
+Dec 23, 2025 02:02:41.853 [140732510349624] DEBUG - Deep Analysis: Read 50000 packets at 902.272000
+Dec 23, 2025 02:02:42.305 [140732510349624] DEBUG - Deep Analysis: Read 60000 packets at 1083.040000
+Dec 23, 2025 02:02:42.722 [140732510349624] DEBUG - Deep Analysis: Read 70000 packets at 1263.168000
+Dec 23, 2025 02:02:43.125 [140732510349624] DEBUG - Deep Analysis: Read 80000 packets at 1443.442000
+Dec 23, 2025 02:02:43.637 [140732510349624] DEBUG - Deep Analysis: Read 90000 packets at 1624.128000
+Dec 23, 2025 02:02:44.079 [140732510349624] DEBUG - Deep Analysis: Read 100000 packets at 1804.736000
+Dec 23, 2025 02:02:44.547 [140732510349624] DEBUG - Deep Analysis: Read 110000 packets at 1985.442000
+Dec 23, 2025 02:02:44.968 [140732510349624] DEBUG - Deep Analysis: Read 120000 packets at 2165.830000
+Dec 23, 2025 02:02:45.369 [140732510349624] DEBUG - Deep Analysis: Read 130000 packets at 2346.386000
+Dec 23, 2025 02:02:45.862 [140732510349624] DEBUG - Deep Analysis: Read 140000 packets at 2527.104000
+Dec 23, 2025 02:02:46.253 [140732510349624] DEBUG - Deep Analysis: Read 150000 packets at 2707.163000
+Dec 23, 2025 02:02:46.749 [140732510349624] DEBUG - Deep Analysis: Read 160000 packets at 2887.712000
+Dec 23, 2025 02:02:47.131 [140732510349624] DEBUG - Deep Analysis: Read 170000 packets at 3068.190000
+Dec 23, 2025 02:02:47.505 [140732510349624] DEBUG - Deep Analysis: Read 180000 packets at 3248.640000
+Dec 23, 2025 02:02:48.082 [140732510349624] DEBUG - Deep Analysis: Read 190000 packets at 3428.967000
+Dec 23, 2025 02:02:48.495 [140732510349624] DEBUG - Deep Analysis: Read 200000 packets at 3609.408000
+Dec 23, 2025 02:02:48.828 [140732510349624] DEBUG - Deep Analysis: Read 210000 packets at 3790.144000
+Dec 23, 2025 02:02:49.258 [140732510349624] DEBUG - Deep Analysis: Read 220000 packets at 3970.591000
+Dec 23, 2025 02:02:49.699 [140732510349624] DEBUG - Deep Analysis: Read 230000 packets at 4151.200000
+Dec 23, 2025 02:02:50.109 [140732510349624] DEBUG - Deep Analysis: Read 240000 packets at 4331.410000
+Dec 23, 2025 02:02:50.628 [140732510349624] DEBUG - Deep Analysis: Read 250000 packets at 4512.128000
+Dec 23, 2025 02:02:51.062 [140732510349624] DEBUG - Deep Analysis: Read 260000 packets at 4692.813000
+Dec 23, 2025 02:02:51.539 [140732510349624] DEBUG - Deep Analysis: Read 270000 packets at 4873.535000
+Dec 23, 2025 02:02:51.981 [140732510349624] DEBUG - Deep Analysis: Read 280000 packets at 5054.336000
+Dec 23, 2025 02:02:52.437 [140732510349624] DEBUG - Deep Analysis: Read 290000 packets at 5234.784000
+Dec 23, 2025 02:02:52.899 [140732510349624] DEBUG - Deep Analysis: Read 300000 packets at 5415.744000
+Dec 23, 2025 02:02:53.345 [140732510349624] DEBUG - Deep Analysis: Read 310000 packets at 5596.288000
+Dec 23, 2025 02:02:53.871 [140732510349624] DEBUG - Deep Analysis: Read 320000 packets at 5776.854000
+Dec 23, 2025 02:02:54.299 [140732510349624] DEBUG - Deep Analysis: Read 330000 packets at 5957.728000
+Dec 23, 2025 02:02:54.799 [140732510349624] DEBUG - Deep Analysis: Read 340000 packets at 6138.624000
+Dec 23, 2025 02:02:55.125 [140732510349624] DEBUG - Deep Analysis: Read 350000 packets at 6319.392000
+Dec 23, 2025 02:02:55.361 [140732510349624] DEBUG - Deep Analysis: Read 360000 packets at 6500.480000
+Dec 23, 2025 02:02:55.382 [140732510349624] DEBUG - Deep Analysis: Sorting packets
+Dec 23, 2025 02:02:55.395 [140732510349624] DEBUG - Deep Analysis: Performing file bitrate analysis
+Dec 23, 2025 02:02:55.453 [140732510349624] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 0
+Dec 23, 2025 02:02:55.484 [140732510349624] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 1
+Dec 23, 2025 02:02:55.502 [140732510349624] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 2
+Dec 23, 2025 02:02:55.502 [140732510349624] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 3
+Dec 23, 2025 02:02:55.503 [140732510349624] DEBUG - Deep Analysis: Saving GoP analysis for stream 0
+Dec 23, 2025 02:02:55.505 [140732510349624] DEBUG - Deep Analysis: Saving bitrate analysis
+Dec 23, 2025 02:02:55.505 [140732510349624] DEBUG - Updating part with ID=663 [/data/Filmek/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD.mkv]
+Dec 23, 2025 02:02:55.506 [140732510349624] DEBUG - [MI] Closing input file: "/data/Filmek/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD.mkv"
+Dec 23, 2025 02:02:55.506 [140732510349624] DEBUG - Updating media item 663, size=3644111097, metadata_item_id=556
+Dec 23, 2025 02:02:55.506 [140732510349624] DEBUG - Updating part with ID=663 [/data/Filmek/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD.mkv]
+Dec 23, 2025 02:02:55.506 [140732510349624] DEBUG - [MI] Opening input file: "/data/Filmek/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD/Minta/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD.mkv"
+Dec 23, 2025 02:02:55.506 [140732510349624] DEBUG - [FFMPEG] - Opening '/data/Filmek/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD/Minta/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD.mkv' for reading
+Dec 23, 2025 02:02:55.506 [140732510349624] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Dec 23, 2025 02:02:55.507 [140732510349624] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Dec 23, 2025 02:02:55.507 [140732510349624] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Dec 23, 2025 02:02:55.507 [140732510349624] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Dec 23, 2025 02:02:55.507 [140732510349624] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Dec 23, 2025 02:02:55.507 [140732510349624] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Dec 23, 2025 02:02:55.507 [140732510349624] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 5742 bytes read:34304 seeks:2 nb_streams:4
+Dec 23, 2025 02:02:55.507 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 23, 2025 02:02:55.507 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 23, 2025 02:02:55.508 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 23, 2025 02:02:55.508 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 23, 2025 02:02:55.508 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 23, 2025 02:02:55.508 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 23, 2025 02:02:55.508 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 23, 2025 02:02:55.508 [140732510349624] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 23, 2025 02:02:55.509 [140732510349624] DEBUG - [FFMPEG] - no picture 
+Dec 23, 2025 02:02:55.523 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 23, 2025 02:02:55.523 [140732510349624] DEBUG - [FFMPEG] - no picture 
+Dec 23, 2025 02:02:55.532 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 23, 2025 02:02:55.540 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Dec 23, 2025 02:02:55.548 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Dec 23, 2025 02:02:55.555 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Dec 23, 2025 02:02:55.563 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Dec 23, 2025 02:02:55.570 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 23, 2025 02:02:55.580 [140732510349624] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 23, 2025 02:02:55.588 [140732510349624] DEBUG - [FFMPEG] - All info found
+Dec 23, 2025 02:02:55.589 [140732510349624] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 439199 bytes read:474948 seeks:2 frames:25
+Dec 23, 2025 02:02:55.759 [140732510349624] DEBUG - Deep Analysis: Sorting packets
+Dec 23, 2025 02:02:55.760 [140732510349624] DEBUG - Deep Analysis: Performing file bitrate analysis
+Dec 23, 2025 02:02:55.760 [140732510349624] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 0
+Dec 23, 2025 02:02:55.761 [140732510349624] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 1
+Dec 23, 2025 02:02:55.761 [140732510349624] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 2
+Dec 23, 2025 02:02:55.761 [140732510349624] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 3
+Dec 23, 2025 02:02:55.761 [140732510349624] DEBUG - Deep Analysis: Saving GoP analysis for stream 0
+Dec 23, 2025 02:02:55.761 [140732510349624] DEBUG - Deep Analysis: Saving bitrate analysis
+Dec 23, 2025 02:02:55.761 [140732510349624] DEBUG - Updating part with ID=664 [/data/Filmek/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD/Minta/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD.mkv]
+Dec 23, 2025 02:02:55.762 [140732510349624] DEBUG - [MI] Closing input file: "/data/Filmek/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD/Minta/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD.mkv"
+Dec 23, 2025 02:02:55.763 [140732510349624] DEBUG - Updating media item 664, size=38991144, metadata_item_id=556
+Dec 23, 2025 02:02:55.763 [140732510349624] DEBUG - Updating part with ID=664 [/data/Filmek/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD/Minta/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD.mkv]

@@ -1,0 +1,27 @@
+Dec 03, 2025 07:05:20.720 [0x7ffee69bbb08] INFO - Plex Tuner Service v1.42.2.10156-f737b826c - Docker Docker Container (LinuxServer.io) aarch64 - build: 
+Dec 03, 2025 07:05:20.721 [0x7ffee69bbb08] INFO - Linux version: 6.12.47+rpt-rpi-2712 (#1 SMP PREEMPT Debian 1:6.12.47-1+rpt1~bookworm (2025-09-16)), language: en-US
+Dec 03, 2025 07:05:20.721 [0x7ffee69bbb08] INFO - Processor Unknown architecture
+Dec 03, 2025 07:05:20.721 [0x7ffee69bbb08] INFO - /usr/lib/plexmediaserver/Plex Tuner Service /usr/lib/plexmediaserver/Resources/Tuner/Private /usr/lib/plexmediaserver/Resources/Tuner/Shared 1.42.2.10156-f737b826c 32600
+Dec 03, 2025 07:05:20.719 [0x7ffee897d890] INFO - [I] broker_t::start...
+Dec 03, 2025 07:05:20.736 [0x7ffee897d890] INFO - [I] device_manager_t::init.
+Dec 03, 2025 07:05:20.736 [0x7ffee897d890] INFO - [I] device_manager_t::init. Initialize provider manager
+Dec 03, 2025 07:05:20.736 [0x7ffee897d890] INFO - [I] device_manager_t::init. Initialize all device auxes
+Dec 03, 2025 07:05:20.736 [0x7ffee897d890] INFO - [I] dvb_device_factory_t::get_aux_list
+Dec 03, 2025 07:05:20.736 [0x7ffee897d890] INFO - [I] tvbutler_aux_t::init
+Dec 03, 2025 07:05:20.740 [0x7ffee897d890] INFO - [I] web_server_t::start. Starting web server on port 32600
+Dec 03, 2025 07:05:27.906 [0x7ffee647fb08] INFO - [I] web_service_t::process_device_discovery
+Dec 03, 2025 07:05:27.906 [0x7ffee647fb08] INFO - [I] device_reactor_t::get_device_list ()
+Dec 03, 2025 07:05:29.910 [0x7ffee647fb08] INFO - [I] SAT2IP - discover_satip_servers(): no servers found
+Dec 03, 2025 07:05:30.328 [0x7ffee647fb08] INFO - [I] v4l::DeviceGetList_impl. getting v4l device list
+Dec 03, 2025 07:05:30.330 [0x7ffee647fb08] INFO - [I] onetv_factory::DeviceGetListEx >>
+Dec 03, 2025 07:05:30.330 [0x7ffee647fb08] WARN - [W] onetv_factory::DeviceGetListEx. libusb_init returned an error -99
+Dec 03, 2025 19:53:17.707 [0x7ffee897d890] INFO - Received SIGINT: Interrupt from keyboard.
+Dec 03, 2025 19:53:17.715 [0x7ffee897d890] INFO - [I] device_manager_t::term
+Dec 03, 2025 19:53:17.715 [0x7ffee897d890] INFO - [I] device_manager_t::term. Stop all devices
+Dec 03, 2025 19:53:17.715 [0x7ffee897d890] INFO - [I] device_manager_t::term. Shut down all device auxes
+Dec 03, 2025 19:53:17.715 [0x7ffee897d890] INFO - [I] tvbutler_aux_t::term
+Dec 03, 2025 19:53:17.715 [0x7ffee897d890] INFO - [I] web_server_t::stop. Web server is stopped
+Dec 03, 2025 19:53:17.715 [0x7ffee897d890] INFO - [I] device_manager_t::term
+Dec 03, 2025 19:53:17.716 [0x7ffee897d890] INFO - [I] device_manager_t::term. Stop all devices
+Dec 03, 2025 19:53:17.716 [0x7ffee897d890] INFO - [I] device_manager_t::term. Shut down all device auxes
+Dec 03, 2025 19:53:17.716 [0x7ffee897d890] INFO - [I] broker_t::shutdown. Shutdown is completed.

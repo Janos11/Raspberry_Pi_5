@@ -1,0 +1,66 @@
+Dec 22, 2025 18:57:59.631 [140733952126456] INFO - Plex Media Scanner v1.42.2.10156-f737b826c - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 00:00
+Dec 22, 2025 18:57:59.632 [140733952126456] INFO - Linux version: 6.12.47+rpt-rpi-2712, language: en-US
+Dec 22, 2025 18:57:59.632 [140733952126456] INFO - Processor: 4-core ARM Cortex-A76
+Dec 22, 2025 18:57:59.632 [140733952126456] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --match --type 1 --log-file-suffix  Matcher --item 13 --content-type=application/json
+Dec 22, 2025 18:57:59.632 [140734032881976] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+Dec 22, 2025 18:57:59.732 [140734032881976] DEBUG - Matcher: found 0 auxiliary files for IMG 1124
+Dec 22, 2025 18:57:59.732 [140734032881976] DEBUG - [MI] Opening input file: "/data/Filmek/IMG_1124.MOV"
+Dec 22, 2025 18:57:59.732 [140734032881976] DEBUG - [FFMPEG] - Opening '/data/Filmek/IMG_1124.MOV' for reading
+Dec 22, 2025 18:57:59.732 [140734032881976] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Dec 22, 2025 18:57:59.734 [140734032881976] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Dec 22, 2025 18:57:59.734 [140734032881976] DEBUG - [FFMPEG] - ISO: File Type Major Brand: qt  
+Dec 22, 2025 18:57:59.735 [140734032881976] DEBUG - [FFMPEG] - Unknown dref type 0x73696c61 size 12
+Dec 22, 2025 18:57:59.735 [140734032881976] DEBUG - [FFMPEG] - Shifting DTS by 41 because of negative CTTS.
+Dec 22, 2025 18:57:59.735 [140734032881976] DEBUG - [FFMPEG] - Processing st: 0, edit list 0 - media time: 0, duration: 17968
+Dec 22, 2025 18:57:59.735 [140734032881976] DEBUG - [FFMPEG] - Unknown dref type 0x73696c61 size 12
+Dec 22, 2025 18:57:59.735 [140734032881976] DEBUG - [FFMPEG] - Processing st: 1, edit list 0 - media time: 2112, duration: 1320648
+Dec 22, 2025 18:57:59.735 [140734032881976] DEBUG - [FFMPEG] - drop a frame at curr_cts: 0 @ 0
+Dec 22, 2025 18:57:59.735 [140734032881976] DEBUG - [FFMPEG] - drop a frame at curr_cts: 1024 @ 1
+Dec 22, 2025 18:57:59.735 [140734032881976] DEBUG - [FFMPEG] - skip 64 audio samples from curr_cts: 2048
+Dec 22, 2025 18:57:59.735 [140734032881976] DEBUG - [FFMPEG] - Unknown dref type 0x73696c61 size 12
+Dec 22, 2025 18:57:59.735 [140734032881976] DEBUG - [FFMPEG] - Processing st: 2, edit list 0 - media time: 0, duration: 17968
+Dec 22, 2025 18:57:59.735 [140734032881976] DEBUG - [FFMPEG] - Unknown dref type 0x73696c61 size 12
+Dec 22, 2025 18:57:59.735 [140734032881976] DEBUG - [FFMPEG] - Processing st: 3, edit list 0 - media time: 0, duration: 17968
+Dec 22, 2025 18:57:59.735 [140734032881976] DEBUG - [FFMPEG] - Unknown dref type 0x73696c61 size 12
+Dec 22, 2025 18:57:59.735 [140734032881976] DEBUG - [FFMPEG] - Processing st: 4, edit list 0 - media time: 0, duration: 17968
+Dec 22, 2025 18:57:59.735 [140734032881976] DEBUG - [FFMPEG] - rfps: 29.833333 0.018590
+Dec 22, 2025 18:57:59.735 [140734032881976] DEBUG - [FFMPEG] - rfps: 29.916667 0.003421
+Dec 22, 2025 18:57:59.735 [140734032881976] DEBUG - [FFMPEG] - rfps: 29.916667 0.003421
+Dec 22, 2025 18:57:59.735 [140734032881976] DEBUG - [FFMPEG] - rfps: 30.000000 0.000621
+Dec 22, 2025 18:57:59.735 [140734032881976] DEBUG - [FFMPEG] - rfps: 60.000000 0.002483
+Dec 22, 2025 18:57:59.735 [140734032881976] DEBUG - [FFMPEG] - rfps: 120.000000 0.009933
+Dec 22, 2025 18:57:59.735 [140734032881976] DEBUG - [FFMPEG] - rfps: 29.970030 0.000204
+Dec 22, 2025 18:57:59.735 [140734032881976] DEBUG - [FFMPEG] - rfps: 29.970030 0.000204
+Dec 22, 2025 18:57:59.735 [140734032881976] DEBUG - [FFMPEG] - rfps: 59.940060 0.000815
+Dec 22, 2025 18:57:59.735 [140734032881976] DEBUG - [FFMPEG] - rfps: 59.940060 0.000815
+Dec 22, 2025 18:57:59.735 [140734032881976] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 38015312 bytes read:57293 seeks:1 nb_streams:5
+Dec 22, 2025 18:57:59.736 [140734032881976] DEBUG - [FFMPEG] - nal_unit_type: 32(VPS), nuh_layer_id: 0, temporal_id: 0
+Dec 22, 2025 18:57:59.736 [140734032881976] DEBUG - [FFMPEG] - Decoding VPS
+Dec 22, 2025 18:57:59.736 [140734032881976] DEBUG - [FFMPEG] - Main 10 profile bitstream
+Dec 22, 2025 18:57:59.736 [140734032881976] DEBUG - [FFMPEG] - nal_unit_type: 33(SPS), nuh_layer_id: 0, temporal_id: 0
+Dec 22, 2025 18:57:59.736 [140734032881976] DEBUG - [FFMPEG] - Decoding SPS
+Dec 22, 2025 18:57:59.736 [140734032881976] DEBUG - [FFMPEG] - Main 10 profile bitstream
+Dec 22, 2025 18:57:59.736 [140734032881976] DEBUG - [FFMPEG] - Decoding VUI
+Dec 22, 2025 18:57:59.736 [140734032881976] DEBUG - [FFMPEG] - nal_unit_type: 34(PPS), nuh_layer_id: 0, temporal_id: 0
+Dec 22, 2025 18:57:59.736 [140734032881976] DEBUG - [FFMPEG] - Decoding PPS
+Dec 22, 2025 18:57:59.736 [140734032881976] DEBUG - [FFMPEG] - nal_unit_type: 39(SEI_PREFIX), nuh_layer_id: 0, temporal_id: 0
+Dec 22, 2025 18:57:59.736 [140734032881976] DEBUG - [FFMPEG] - Decoding SEI
+Dec 22, 2025 18:57:59.736 [140734032881976] DEBUG - [FFMPEG] - Skipped PREFIX SEI 148
+Dec 22, 2025 18:57:59.738 [140734032881976] DEBUG - [FFMPEG] - demuxer injecting skip 2112 / discard 0
+Dec 22, 2025 18:57:59.738 [140734032881976] DEBUG - [FFMPEG] - skip 2112 / discard 0 samples due to side data
+Dec 22, 2025 18:57:59.738 [140734032881976] DEBUG - [FFMPEG] - All info found
+Dec 22, 2025 18:57:59.738 [140734032881976] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 65907 bytes read:155597 seeks:2 frames:44
+Dec 22, 2025 18:57:59.738 [140734032881976] DEBUG - [FFMPEG] - nal_unit_type: 32(VPS), nuh_layer_id: 0, temporal_id: 0
+Dec 22, 2025 18:57:59.738 [140734032881976] DEBUG - [FFMPEG] - Decoding VPS
+Dec 22, 2025 18:57:59.738 [140734032881976] DEBUG - [FFMPEG] - Main 10 profile bitstream
+Dec 22, 2025 18:57:59.738 [140734032881976] DEBUG - [FFMPEG] - nal_unit_type: 33(SPS), nuh_layer_id: 0, temporal_id: 0
+Dec 22, 2025 18:57:59.738 [140734032881976] DEBUG - [FFMPEG] - Decoding SPS
+Dec 22, 2025 18:57:59.738 [140734032881976] DEBUG - [FFMPEG] - Main 10 profile bitstream
+Dec 22, 2025 18:57:59.738 [140734032881976] DEBUG - [FFMPEG] - Decoding VUI
+Dec 22, 2025 18:57:59.738 [140734032881976] DEBUG - [FFMPEG] - nal_unit_type: 34(PPS), nuh_layer_id: 0, temporal_id: 0
+Dec 22, 2025 18:57:59.738 [140734032881976] DEBUG - [FFMPEG] - Decoding PPS
+Dec 22, 2025 18:57:59.739 [140734032881976] DEBUG - [FFMPEG] - nal_unit_type: 39(SEI_PREFIX), nuh_layer_id: 0, temporal_id: 0
+Dec 22, 2025 18:57:59.739 [140734032881976] DEBUG - [FFMPEG] - Decoding SEI
+Dec 22, 2025 18:57:59.739 [140734032881976] DEBUG - [FFMPEG] - Skipped PREFIX SEI 148
+Dec 22, 2025 18:57:59.739 [140734032881976] DEBUG - [MI] Closing input file: "/data/Filmek/IMG_1124.MOV"
+Dec 22, 2025 18:57:59.739 [140734032881976] DEBUG - Matcher: no sidecar subtitle files found for /data/Filmek/IMG_1124.MOV

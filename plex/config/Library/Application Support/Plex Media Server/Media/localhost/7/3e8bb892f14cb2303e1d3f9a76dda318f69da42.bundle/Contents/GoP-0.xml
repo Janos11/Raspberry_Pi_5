@@ -1,0 +1,31 @@
+<VideoStream timebaseNumerator="1" timebaseDenomenator="600">
+<Group pts="0" duration="580" size="877882" />
+<Group pts="640" duration="640" size="1215286" />
+<Group pts="1281" duration="640" size="1135468" />
+<Group pts="1921" duration="640" size="1170705" />
+<Group pts="2561" duration="640" size="1124627" />
+<Group pts="3201" duration="640" size="1246286" />
+<Group pts="3842" duration="640" size="1113016" />
+<Group pts="4482" duration="640" size="1206670" />
+<Group pts="5122" duration="640" size="1285116" />
+<Group pts="5762" duration="640" size="1303034" />
+<Group pts="6402" duration="640" size="1215438" />
+<Group pts="7042" duration="640" size="1069209" />
+<Group pts="7683" duration="640" size="1038556" />
+<Group pts="8323" duration="640" size="1259835" />
+<Group pts="8964" duration="640" size="1354079" />
+<Group pts="9604" duration="640" size="1433852" />
+<Group pts="10245" duration="640" size="1549025" />
+<Group pts="10885" duration="640" size="1595113" />
+<Group pts="11525" duration="640" size="1582980" />
+<Group pts="12166" duration="640" size="1498807" />
+<Group pts="12806" duration="640" size="1406564" />
+<Group pts="13446" duration="640" size="1312494" />
+<Group pts="14087" duration="640" size="1305106" />
+<Group pts="14727" duration="640" size="1345884" />
+<Group pts="15367" duration="640" size="1455793" />
+<Group pts="16008" duration="640" size="1581819" />
+<Group pts="16648" duration="640" size="1553863" />
+<Group pts="17288" duration="640" size="1552394" />
+<Group pts="17929" duration="100" size="460948" />
+</VideoStream>

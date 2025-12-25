@@ -1,0 +1,13 @@
+services:
+  plex:
+    image: lscr.io/linuxserver/plex:latest
+    container_name: plex
+    network_mode: host
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/London
+    volumes:
+      - ./config:/config
+      - /media/pi/8ad4b8e9-3b97-40e2-9b43-1458931b15a1/home/janos:/data
+    restart: unless-stopped

@@ -1,0 +1,14 @@
+Dec 25, 2025 02:02:37.267 [140733953633784] INFO - Plex Media Scanner v1.42.2.10156-f737b826c - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 00:00
+Dec 25, 2025 02:02:37.267 [140733953633784] INFO - Linux version: 6.12.47+rpt-rpi-2712, language: en-US
+Dec 25, 2025 02:02:37.268 [140733953633784] INFO - Processor: 4-core ARM Cortex-A76
+Dec 25, 2025 02:02:37.268 [140733953633784] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze-deeply --item 498 --log-file-suffix  Deep Analysis
+Dec 25, 2025 02:02:37.268 [140734034389304] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+Dec 25, 2025 02:02:37.350 [140734034389304] DEBUG - [MI] Opening input file: "/data/Filmek/Prey.2022.720p.DSNP.WEBRip.x264.HUN-BiTBoX/Prey.2022.720p.DSNP.WEBRip.x264.HUN-BiTBoX.mkv"
+Dec 25, 2025 02:02:37.350 [140734034389304] DEBUG - [FFMPEG] - Opening '/data/Filmek/Prey.2022.720p.DSNP.WEBRip.x264.HUN-BiTBoX/Prey.2022.720p.DSNP.WEBRip.x264.HUN-BiTBoX.mkv' for reading
+Dec 25, 2025 02:02:37.350 [140734034389304] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Dec 25, 2025 02:02:37.560 [140734034389304] WARN - [FFMPEG] - Format matroska,webm detected only with low score of 1, misdetection possible!
+Dec 25, 2025 02:02:37.561 [140734034389304] ERROR - [FFMPEG] - 0x00 at pos 0 (0x0) invalid as first byte of an EBML number
+Dec 25, 2025 02:02:37.561 [140734034389304] ERROR - [FFMPEG] - EBML header parsing failed
+Dec 25, 2025 02:02:37.561 [140734034389304] ERROR - Exception analyzing media file '/data/Filmek/Prey.2022.720p.DSNP.WEBRip.x264.HUN-BiTBoX/Prey.2022.720p.DSNP.WEBRip.x264.HUN-BiTBoX.mkv' (Could not parse /data/Filmek/Prey.2022.720p.DSNP.WEBRip.x264.HUN-BiTBoX/Prey.2022.720p.DSNP.WEBRip.x264.HUN-BiTBoX.mkv (error=-1094995529): Invalid data found when processing input)
+Dec 25, 2025 02:02:37.561 [140734034389304] DEBUG - Updating media item 514, size=2732653731, metadata_item_id=498
+Dec 25, 2025 02:02:37.561 [140734034389304] DEBUG - Updating part with ID=514 [/data/Filmek/Prey.2022.720p.DSNP.WEBRip.x264.HUN-BiTBoX/Prey.2022.720p.DSNP.WEBRip.x264.HUN-BiTBoX.mkv]

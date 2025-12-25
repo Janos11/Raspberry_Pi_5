@@ -1,0 +1,105 @@
+Dec 25, 2025 02:02:34.264 [140732724506104] INFO - Plex Media Scanner v1.42.2.10156-f737b826c - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 00:00
+Dec 25, 2025 02:02:34.264 [140732724506104] INFO - Linux version: 6.12.47+rpt-rpi-2712, language: en-US
+Dec 25, 2025 02:02:34.264 [140732724506104] INFO - Processor: 4-core ARM Cortex-A76
+Dec 25, 2025 02:02:34.264 [140732724506104] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze-deeply --item 564 --log-file-suffix  Deep Analysis
+Dec 25, 2025 02:02:34.265 [140732805261624] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+Dec 25, 2025 02:02:34.347 [140732805261624] DEBUG - [MI] Opening input file: "/data/Filmek/Avatar.Tuz.es.hamu.2025.CAMrip.x264.MD.HUN-SSD/Avatar.Tuz.es.hamu.2025.CAMrip.x264.MD.HUN-SSD.mkv"
+Dec 25, 2025 02:02:34.347 [140732805261624] DEBUG - [FFMPEG] - Opening '/data/Filmek/Avatar.Tuz.es.hamu.2025.CAMrip.x264.MD.HUN-SSD/Avatar.Tuz.es.hamu.2025.CAMrip.x264.MD.HUN-SSD.mkv' for reading
+Dec 25, 2025 02:02:34.347 [140732805261624] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Dec 25, 2025 02:02:34.348 [140732805261624] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Dec 25, 2025 02:02:34.348 [140732805261624] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Dec 25, 2025 02:02:34.348 [140732805261624] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Dec 25, 2025 02:02:34.348 [140732805261624] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 5577 bytes read:33560 seeks:2 nb_streams:2
+Dec 25, 2025 02:02:34.348 [140732805261624] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 25, 2025 02:02:34.348 [140732805261624] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 25, 2025 02:02:34.348 [140732805261624] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 25, 2025 02:02:34.348 [140732805261624] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 25, 2025 02:02:34.349 [140732805261624] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 25, 2025 02:02:34.349 [140732805261624] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 25, 2025 02:02:34.349 [140732805261624] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Dec 25, 2025 02:02:34.349 [140732805261624] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 25, 2025 02:02:34.349 [140732805261624] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 25, 2025 02:02:34.349 [140732805261624] DEBUG - [FFMPEG] - no picture 
+Dec 25, 2025 02:02:34.350 [140732805261624] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 25, 2025 02:02:34.350 [140732805261624] DEBUG - [FFMPEG] - no picture 
+Dec 25, 2025 02:02:34.351 [140732805261624] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 25, 2025 02:02:34.352 [140732805261624] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 25, 2025 02:02:34.353 [140732805261624] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 25, 2025 02:02:34.355 [140732805261624] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 25, 2025 02:02:34.356 [140732805261624] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Dec 25, 2025 02:02:34.358 [140732805261624] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Dec 25, 2025 02:02:34.360 [140732805261624] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Dec 25, 2025 02:02:34.361 [140732805261624] DEBUG - [FFMPEG] - All info found
+Dec 25, 2025 02:02:34.361 [140732805261624] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 58027 bytes read:99096 seeks:2 frames:25
+Dec 25, 2025 02:02:34.407 [140732805261624] DEBUG - Deep Analysis: Read 10000 packets at 189.753000
+Dec 25, 2025 02:02:34.452 [140732805261624] DEBUG - Deep Analysis: Read 20000 packets at 379.471000
+Dec 25, 2025 02:02:34.497 [140732805261624] DEBUG - Deep Analysis: Read 30000 packets at 569.155000
+Dec 25, 2025 02:02:34.539 [140732805261624] DEBUG - Deep Analysis: Read 40000 packets at 758.667000
+Dec 25, 2025 02:02:34.585 [140732805261624] DEBUG - Deep Analysis: Read 50000 packets at 948.627000
+Dec 25, 2025 02:02:34.629 [140732805261624] DEBUG - Deep Analysis: Read 60000 packets at 1138.125000
+Dec 25, 2025 02:02:34.673 [140732805261624] DEBUG - Deep Analysis: Read 70000 packets at 1327.750000
+Dec 25, 2025 02:02:34.716 [140732805261624] DEBUG - Deep Analysis: Read 80000 packets at 1517.748000
+Dec 25, 2025 02:02:34.766 [140732805261624] DEBUG - Deep Analysis: Read 90000 packets at 1707.432000
+Dec 25, 2025 02:02:34.811 [140732805261624] DEBUG - Deep Analysis: Read 100000 packets at 1896.917000
+Dec 25, 2025 02:02:34.854 [140732805261624] DEBUG - Deep Analysis: Read 110000 packets at 2086.869000
+Dec 25, 2025 02:02:34.894 [140732805261624] DEBUG - Deep Analysis: Read 120000 packets at 2276.292000
+Dec 25, 2025 02:02:34.935 [140732805261624] DEBUG - Deep Analysis: Read 130000 packets at 2466.000000
+Dec 25, 2025 02:02:34.980 [140732805261624] DEBUG - Deep Analysis: Read 140000 packets at 2655.956000
+Dec 25, 2025 02:02:35.025 [140732805261624] DEBUG - Deep Analysis: Read 150000 packets at 2845.709000
+Dec 25, 2025 02:02:35.070 [140732805261624] DEBUG - Deep Analysis: Read 160000 packets at 3035.208000
+Dec 25, 2025 02:02:35.118 [140732805261624] DEBUG - Deep Analysis: Read 170000 packets at 3225.181000
+Dec 25, 2025 02:02:35.159 [140732805261624] DEBUG - Deep Analysis: Read 180000 packets at 3414.625000
+Dec 25, 2025 02:02:35.202 [140732805261624] DEBUG - Deep Analysis: Read 190000 packets at 3604.619000
+Dec 25, 2025 02:02:35.246 [140732805261624] DEBUG - Deep Analysis: Read 200000 packets at 3794.407000
+Dec 25, 2025 02:02:35.285 [140732805261624] DEBUG - Deep Analysis: Read 210000 packets at 3983.750000
+Dec 25, 2025 02:02:35.331 [140732805261624] DEBUG - Deep Analysis: Read 220000 packets at 4173.774000
+Dec 25, 2025 02:02:35.375 [140732805261624] DEBUG - Deep Analysis: Read 230000 packets at 4363.424000
+Dec 25, 2025 02:02:35.414 [140732805261624] DEBUG - Deep Analysis: Read 240000 packets at 4552.917000
+Dec 25, 2025 02:02:35.460 [140732805261624] DEBUG - Deep Analysis: Read 250000 packets at 4742.861000
+Dec 25, 2025 02:02:35.502 [140732805261624] DEBUG - Deep Analysis: Read 260000 packets at 4932.509000
+Dec 25, 2025 02:02:35.547 [140732805261624] DEBUG - Deep Analysis: Read 270000 packets at 5122.367000
+Dec 25, 2025 02:02:35.585 [140732805261624] DEBUG - Deep Analysis: Read 280000 packets at 5311.875000
+Dec 25, 2025 02:02:35.628 [140732805261624] DEBUG - Deep Analysis: Read 290000 packets at 5501.458000
+Dec 25, 2025 02:02:35.675 [140732805261624] DEBUG - Deep Analysis: Read 300000 packets at 5691.167000
+Dec 25, 2025 02:02:35.720 [140732805261624] DEBUG - Deep Analysis: Read 310000 packets at 5881.242000
+Dec 25, 2025 02:02:35.763 [140732805261624] DEBUG - Deep Analysis: Read 320000 packets at 6070.856000
+Dec 25, 2025 02:02:35.806 [140732805261624] DEBUG - Deep Analysis: Read 330000 packets at 6260.644000
+Dec 25, 2025 02:02:35.851 [140732805261624] DEBUG - Deep Analysis: Read 340000 packets at 6450.259000
+Dec 25, 2025 02:02:35.895 [140732805261624] DEBUG - Deep Analysis: Read 350000 packets at 6640.082000
+Dec 25, 2025 02:02:35.929 [140732805261624] DEBUG - Deep Analysis: Read 360000 packets at 6829.801000
+Dec 25, 2025 02:02:35.972 [140732805261624] DEBUG - Deep Analysis: Read 370000 packets at 7019.520000
+Dec 25, 2025 02:02:36.015 [140732805261624] DEBUG - Deep Analysis: Read 380000 packets at 7209.042000
+Dec 25, 2025 02:02:36.063 [140732805261624] DEBUG - Deep Analysis: Read 390000 packets at 7398.667000
+Dec 25, 2025 02:02:36.107 [140732805261624] DEBUG - Deep Analysis: Read 400000 packets at 7588.606000
+Dec 25, 2025 02:02:36.152 [140732805261624] DEBUG - Deep Analysis: Read 410000 packets at 7778.359000
+Dec 25, 2025 02:02:36.195 [140732805261624] DEBUG - Deep Analysis: Read 420000 packets at 7967.938000
+Dec 25, 2025 02:02:36.235 [140732805261624] DEBUG - Deep Analysis: Read 430000 packets at 8157.762000
+Dec 25, 2025 02:02:36.280 [140732805261624] DEBUG - Deep Analysis: Read 440000 packets at 8347.292000
+Dec 25, 2025 02:02:36.322 [140732805261624] DEBUG - Deep Analysis: Read 450000 packets at 8536.875000
+Dec 25, 2025 02:02:36.362 [140732805261624] DEBUG - Deep Analysis: Read 460000 packets at 8726.883000
+Dec 25, 2025 02:02:36.404 [140732805261624] DEBUG - Deep Analysis: Read 470000 packets at 8916.602000
+Dec 25, 2025 02:02:36.453 [140732805261624] DEBUG - Deep Analysis: Read 480000 packets at 9106.354000
+Dec 25, 2025 02:02:36.500 [140732805261624] DEBUG - Deep Analysis: Read 490000 packets at 9295.875000
+Dec 25, 2025 02:02:36.542 [140732805261624] DEBUG - Deep Analysis: Read 500000 packets at 9485.723000
+Dec 25, 2025 02:02:36.586 [140732805261624] DEBUG - Deep Analysis: Read 510000 packets at 9675.406000
+Dec 25, 2025 02:02:36.627 [140732805261624] DEBUG - Deep Analysis: Read 520000 packets at 9864.875000
+Dec 25, 2025 02:02:36.671 [140732805261624] DEBUG - Deep Analysis: Read 530000 packets at 10054.879000
+Dec 25, 2025 02:02:36.716 [140732805261624] DEBUG - Deep Analysis: Read 540000 packets at 10244.333000
+Dec 25, 2025 02:02:36.764 [140732805261624] DEBUG - Deep Analysis: Read 550000 packets at 10434.316000
+Dec 25, 2025 02:02:36.805 [140732805261624] DEBUG - Deep Analysis: Read 560000 packets at 10623.875000
+Dec 25, 2025 02:02:36.852 [140732805261624] DEBUG - Deep Analysis: Read 570000 packets at 10813.752000
+Dec 25, 2025 02:02:36.897 [140732805261624] DEBUG - Deep Analysis: Read 580000 packets at 11003.472000
+Dec 25, 2025 02:02:36.935 [140732805261624] DEBUG - Deep Analysis: Read 590000 packets at 11192.833000
+Dec 25, 2025 02:02:36.978 [140732805261624] DEBUG - Deep Analysis: Read 600000 packets at 11382.805000
+Dec 25, 2025 02:02:37.011 [140732805261624] DEBUG - Deep Analysis: Read 610000 packets at 11572.291000
+Dec 25, 2025 02:02:37.051 [140732805261624] DEBUG - Deep Analysis: Read 620000 packets at 11762.000000
+Dec 25, 2025 02:02:37.064 [140732805261624] DEBUG - Deep Analysis: Sorting packets
+Dec 25, 2025 02:02:37.089 [140732805261624] DEBUG - Deep Analysis: Performing file bitrate analysis
+Dec 25, 2025 02:02:37.146 [140732805261624] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 0
+Dec 25, 2025 02:02:37.188 [140732805261624] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 1
+Dec 25, 2025 02:02:37.240 [140732805261624] DEBUG - Deep Analysis: Saving GoP analysis for stream 0
+Dec 25, 2025 02:02:37.243 [140732805261624] DEBUG - Deep Analysis: Saving bitrate analysis
+Dec 25, 2025 02:02:37.244 [140732805261624] DEBUG - Updating part with ID=683 [/data/Filmek/Avatar.Tuz.es.hamu.2025.CAMrip.x264.MD.HUN-SSD/Avatar.Tuz.es.hamu.2025.CAMrip.x264.MD.HUN-SSD.mkv]
+Dec 25, 2025 02:02:37.244 [140732805261624] DEBUG - [MI] Closing input file: "/data/Filmek/Avatar.Tuz.es.hamu.2025.CAMrip.x264.MD.HUN-SSD/Avatar.Tuz.es.hamu.2025.CAMrip.x264.MD.HUN-SSD.mkv"
+Dec 25, 2025 02:02:37.244 [140732805261624] DEBUG - Updating media item 683, size=2420213780, metadata_item_id=564
+Dec 25, 2025 02:02:37.244 [140732805261624] DEBUG - Updating part with ID=683 [/data/Filmek/Avatar.Tuz.es.hamu.2025.CAMrip.x264.MD.HUN-SSD/Avatar.Tuz.es.hamu.2025.CAMrip.x264.MD.HUN-SSD.mkv]

@@ -1,0 +1,49 @@
+Dec 24, 2025 14:45:10.077 [140735680441848] INFO - Plex Media Scanner v1.42.2.10156-f737b826c - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 00:00
+Dec 24, 2025 14:45:10.077 [140735680441848] INFO - Linux version: 6.12.47+rpt-rpi-2712, language: en-US
+Dec 24, 2025 14:45:10.077 [140735680441848] INFO - Processor: 4-core ARM Cortex-A76
+Dec 24, 2025 14:45:10.077 [140735680441848] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze --log-file-suffix  Analysis --no-thumbs --item 564
+Dec 24, 2025 14:45:10.078 [140735761197368] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+Dec 24, 2025 14:45:10.160 [140735761197368] DEBUG - Analyzing media parts for item 564 (Avatar: Tűz és Hamu): 683
+Dec 24, 2025 14:45:10.161 [140735761197368] DEBUG - [ID 683] Media part analysis: /data/Filmek/Avatar.Tuz.es.hamu.2025.CAMrip.x264.MD.HUN-SSD/Avatar.Tuz.es.hamu.2025.CAMrip.x264.MD.HUN-SSD.mkv
+Dec 24, 2025 14:45:10.161 [140735761197368] DEBUG - [MI] Opening input file: "/data/Filmek/Avatar.Tuz.es.hamu.2025.CAMrip.x264.MD.HUN-SSD/Avatar.Tuz.es.hamu.2025.CAMrip.x264.MD.HUN-SSD.mkv"
+Dec 24, 2025 14:45:10.161 [140735761197368] DEBUG - [FFMPEG] - Opening '/data/Filmek/Avatar.Tuz.es.hamu.2025.CAMrip.x264.MD.HUN-SSD/Avatar.Tuz.es.hamu.2025.CAMrip.x264.MD.HUN-SSD.mkv' for reading
+Dec 24, 2025 14:45:10.161 [140735761197368] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Dec 24, 2025 14:45:10.162 [140735761197368] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Dec 24, 2025 14:45:10.162 [140735761197368] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Dec 24, 2025 14:45:10.162 [140735761197368] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Dec 24, 2025 14:45:10.162 [140735761197368] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 5577 bytes read:33560 seeks:2 nb_streams:2
+Dec 24, 2025 14:45:10.162 [140735761197368] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 24, 2025 14:45:10.162 [140735761197368] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 24, 2025 14:45:10.162 [140735761197368] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 24, 2025 14:45:10.162 [140735761197368] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 24, 2025 14:45:10.163 [140735761197368] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 24, 2025 14:45:10.163 [140735761197368] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 24, 2025 14:45:10.163 [140735761197368] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Dec 24, 2025 14:45:10.163 [140735761197368] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 24, 2025 14:45:10.163 [140735761197368] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 24, 2025 14:45:10.163 [140735761197368] DEBUG - [FFMPEG] - no picture 
+Dec 24, 2025 14:45:10.164 [140735761197368] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 24, 2025 14:45:10.164 [140735761197368] DEBUG - [FFMPEG] - no picture 
+Dec 24, 2025 14:45:10.164 [140735761197368] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 24, 2025 14:45:10.165 [140735761197368] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 24, 2025 14:45:10.167 [140735761197368] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 24, 2025 14:45:10.168 [140735761197368] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 24, 2025 14:45:10.170 [140735761197368] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Dec 24, 2025 14:45:10.172 [140735761197368] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Dec 24, 2025 14:45:10.173 [140735761197368] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Dec 24, 2025 14:45:10.175 [140735761197368] DEBUG - [FFMPEG] - All info found
+Dec 24, 2025 14:45:10.175 [140735761197368] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 58027 bytes read:99096 seeks:2 frames:25
+Dec 24, 2025 14:45:10.183 [140735761197368] DEBUG - [MI]  * 4b2852e6496ef3e22aca0c885f1fcef21eab92fb [mkv h264/ac3] Duration: 11822185ms, 720x306 (2.352941) 24.000fps, bitrate=1637kbps, audio channels=2, optimizedForStreaming=0 ("/data/Filmek/Avatar.Tuz.es.hamu.2025.CAMrip.x264.MD.HUN-SSD/Avatar.Tuz.es.hamu.2025.CAMrip.x264.MD.HUN-SSD.mkv")
+Dec 24, 2025 14:45:10.183 [140735761197368] DEBUG - [MI] Chapters had generic titles, clearing.
+Dec 24, 2025 14:45:10.183 [140735761197368] DEBUG - [MI] Closing input file: "/data/Filmek/Avatar.Tuz.es.hamu.2025.CAMrip.x264.MD.HUN-SSD/Avatar.Tuz.es.hamu.2025.CAMrip.x264.MD.HUN-SSD.mkv"
+Dec 24, 2025 14:45:10.183 [140735761197368] DEBUG - Committing media stream changes for part 683
+Dec 24, 2025 14:45:10.184 [140735761197368] DEBUG - Updating media item 683, size=2420213780, metadata_item_id=564
+Dec 24, 2025 14:45:10.184 [140735761197368] DEBUG - Updating part with ID=683 [/data/Filmek/Avatar.Tuz.es.hamu.2025.CAMrip.x264.MD.HUN-SSD/Avatar.Tuz.es.hamu.2025.CAMrip.x264.MD.HUN-SSD.mkv]
+Dec 24, 2025 14:45:10.184 [140735662255608] DEBUG - [HCl#1] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=564&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Dec 24, 2025 14:45:10.185 [140735662026232] DEBUG - [HttpClient/HCl#1] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=564&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Dec 24, 2025 14:45:10.185 [140735662255608] DEBUG - [HCl#2] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=564&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Dec 24, 2025 14:45:10.186 [140735761197368] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Dec 24, 2025 14:45:10.186 [140735761197368] DEBUG - [HCl#3] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Dec 24, 2025 14:45:10.186 [140735662026232] DEBUG - [HttpClient/HCl#2] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=564&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+Dec 24, 2025 14:45:10.188 [140735662026232] DEBUG - [HttpClient/HCl#3] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp
+Dec 24, 2025 14:45:10.188 [140735761197368] DEBUG - Updating metadata item (save) (Avatar: Tűz és Hamu) with ID 564

@@ -1,0 +1,16 @@
+services:
+  audiobookshelf:
+    image: advplyr/audiobookshelf:latest
+    container_name: audiobookshelf
+    ports:
+      - "13378:80"  # This maps port 13378 on your Raspberry Pi to the container
+    volumes:
+      - ./podcasts:/podcasts
+      - ./metadata:/metadata
+      - ./audiobooks:/audiobooks  # This is the folder where your audiobooks will be stored
+      - ./config:/config  # This is where Audiobookshelf will store its settings
+    environment:
+      - PUID=1000  # This ensures that the container runs with the same user permissions as your local user
+      - PGID=1000  # This ensures group permissions match
+      - TZ="London"
+    restart: unless-stopped

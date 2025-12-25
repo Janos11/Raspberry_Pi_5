@@ -1,0 +1,19 @@
+Dec 24, 2025 02:02:34.126 [140733371084280] INFO - Plex Media Scanner v1.42.2.10156-f737b826c - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 00:00
+Dec 24, 2025 02:02:34.126 [140733371084280] INFO - Linux version: 6.12.47+rpt-rpi-2712, language: en-US
+Dec 24, 2025 02:02:34.126 [140733371084280] INFO - Processor: 4-core ARM Cortex-A76
+Dec 24, 2025 02:02:34.126 [140733371084280] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze --item 498 --log-file-suffix  Analysis
+Dec 24, 2025 02:02:34.127 [140733451839800] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+Dec 24, 2025 02:02:34.211 [140733451839800] DEBUG - Analyzing media parts for item 498 (Préda): 514
+Dec 24, 2025 02:02:34.214 [140733451839800] DEBUG - [ID 514] Media part analysis: /data/Filmek/Prey.2022.720p.DSNP.WEBRip.x264.HUN-BiTBoX/Prey.2022.720p.DSNP.WEBRip.x264.HUN-BiTBoX.mkv
+Dec 24, 2025 02:02:34.214 [140733451839800] DEBUG - [MI] Opening input file: "/data/Filmek/Prey.2022.720p.DSNP.WEBRip.x264.HUN-BiTBoX/Prey.2022.720p.DSNP.WEBRip.x264.HUN-BiTBoX.mkv"
+Dec 24, 2025 02:02:34.214 [140733451839800] DEBUG - [FFMPEG] - Opening '/data/Filmek/Prey.2022.720p.DSNP.WEBRip.x264.HUN-BiTBoX/Prey.2022.720p.DSNP.WEBRip.x264.HUN-BiTBoX.mkv' for reading
+Dec 24, 2025 02:02:34.214 [140733451839800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Dec 24, 2025 02:02:34.423 [140733451839800] WARN - [FFMPEG] - Format matroska,webm detected only with low score of 1, misdetection possible!
+Dec 24, 2025 02:02:34.423 [140733451839800] ERROR - [FFMPEG] - 0x00 at pos 0 (0x0) invalid as first byte of an EBML number
+Dec 24, 2025 02:02:34.423 [140733451839800] ERROR - [FFMPEG] - EBML header parsing failed
+Dec 24, 2025 02:02:34.424 [140733451839800] ERROR - Exception analyzing media file '/data/Filmek/Prey.2022.720p.DSNP.WEBRip.x264.HUN-BiTBoX/Prey.2022.720p.DSNP.WEBRip.x264.HUN-BiTBoX.mkv' (Could not parse /data/Filmek/Prey.2022.720p.DSNP.WEBRip.x264.HUN-BiTBoX/Prey.2022.720p.DSNP.WEBRip.x264.HUN-BiTBoX.mkv (error=-1094995529): Invalid data found when processing input)
+Dec 24, 2025 02:02:34.424 [140733451839800] ERROR - Failed to successfully analyze part 514.
+Dec 24, 2025 02:02:34.427 [140733451839800] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Dec 24, 2025 02:02:34.427 [140733451839800] DEBUG - [HCl#1] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Dec 24, 2025 02:02:34.428 [140733353455096] DEBUG - [HttpClient/HCl#1] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp
+Dec 24, 2025 02:02:34.428 [140733451839800] DEBUG - Updating metadata item (save) (Préda) with ID 498

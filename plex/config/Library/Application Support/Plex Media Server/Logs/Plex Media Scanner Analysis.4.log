@@ -1,0 +1,91 @@
+Dec 22, 2025 15:21:27.670 [140736072019448] INFO - Plex Media Scanner v1.42.2.10156-f737b826c - Docker Docker Container (LinuxServer.io) aarch64 - build: linux-aarch64 - GMT 00:00
+Dec 22, 2025 15:21:27.670 [140736072019448] INFO - Linux version: 6.12.47+rpt-rpi-2712, language: en-US
+Dec 22, 2025 15:21:27.670 [140736072019448] INFO - Processor: 4-core ARM Cortex-A76
+Dec 22, 2025 15:21:27.670 [140736072019448] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze --log-file-suffix  Analysis --no-thumbs --item 556
+Dec 22, 2025 15:21:27.671 [140736152774968] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+Dec 22, 2025 15:21:27.753 [140736152774968] DEBUG - Analyzing media parts for item 556 (A nagy árvíz): 663,664
+Dec 22, 2025 15:21:27.754 [140736152774968] DEBUG - [ID 663] Media part analysis: /data/Filmek/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD.mkv
+Dec 22, 2025 15:21:27.754 [140736152774968] DEBUG - [MI] Opening input file: "/data/Filmek/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD.mkv"
+Dec 22, 2025 15:21:27.754 [140736152774968] DEBUG - [FFMPEG] - Opening '/data/Filmek/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD.mkv' for reading
+Dec 22, 2025 15:21:27.754 [140736152774968] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Dec 22, 2025 15:21:27.755 [140736152774968] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Dec 22, 2025 15:21:27.755 [140736152774968] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Dec 22, 2025 15:21:27.755 [140736152774968] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Dec 22, 2025 15:21:27.755 [140736152774968] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Dec 22, 2025 15:21:27.755 [140736152774968] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Dec 22, 2025 15:21:27.755 [140736152774968] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 5742 bytes read:34318 seeks:2 nb_streams:4
+Dec 22, 2025 15:21:27.755 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 15:21:27.755 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 15:21:27.755 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 15:21:27.755 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 15:21:27.756 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 15:21:27.756 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 15:21:27.756 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+Dec 22, 2025 15:21:27.756 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 15:21:27.756 [140736152774968] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 15:21:27.756 [140736152774968] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 15:21:27.760 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 15:21:27.760 [140736152774968] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 15:21:27.762 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 15:21:27.764 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Dec 22, 2025 15:21:27.766 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Dec 22, 2025 15:21:27.769 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Dec 22, 2025 15:21:27.771 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Dec 22, 2025 15:21:27.773 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 15:21:27.774 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 15:21:27.776 [140736152774968] DEBUG - [FFMPEG] - All info found
+Dec 22, 2025 15:21:27.777 [140736152774968] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 65129 bytes read:99854 seeks:2 frames:25
+Dec 22, 2025 15:21:27.781 [140736152774968] DEBUG - [MI]  * 2a7bda1fe36910e48a14a14fb66db64e35da9907 [mkv h264/ac3] Duration: 6532544ms, 1280x720 (1.777778) 23.976fps, bitrate=4462kbps, audio channels=6, optimizedForStreaming=0 ("/data/Filmek/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD.mkv")
+Dec 22, 2025 15:21:27.781 [140736152774968] DEBUG - [MI] Chapters had generic titles, clearing.
+Dec 22, 2025 15:21:27.781 [140736152774968] DEBUG - [MI] Closing input file: "/data/Filmek/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD.mkv"
+Dec 22, 2025 15:21:27.782 [140736152774968] DEBUG - Committing media stream changes for part 663
+Dec 22, 2025 15:21:27.782 [140736152774968] DEBUG - Updating media item 663, size=3644111097, metadata_item_id=556
+Dec 22, 2025 15:21:27.782 [140736152774968] DEBUG - Updating part with ID=663 [/data/Filmek/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD.mkv]
+Dec 22, 2025 15:21:27.784 [140736053751288] DEBUG - [HCl#1] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=556&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Dec 22, 2025 15:21:27.784 [140736152774968] DEBUG - [ID 664] Media part analysis: /data/Filmek/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD/Minta/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD.mkv
+Dec 22, 2025 15:21:27.784 [140736152774968] DEBUG - [MI] Opening input file: "/data/Filmek/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD/Minta/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD.mkv"
+Dec 22, 2025 15:21:27.784 [140736152774968] DEBUG - [FFMPEG] - Opening '/data/Filmek/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD/Minta/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD.mkv' for reading
+Dec 22, 2025 15:21:27.784 [140736152774968] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+Dec 22, 2025 15:21:27.784 [140736152774968] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Dec 22, 2025 15:21:27.784 [140736152774968] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Dec 22, 2025 15:21:27.784 [140736152774968] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Dec 22, 2025 15:21:27.784 [140736152774968] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Dec 22, 2025 15:21:27.784 [140736152774968] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Dec 22, 2025 15:21:27.784 [140736152774968] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 5742 bytes read:34304 seeks:2 nb_streams:4
+Dec 22, 2025 15:21:27.785 [140736053587448] DEBUG - [HttpClient/HCl#1] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=556&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Dec 22, 2025 15:21:27.785 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 15:21:27.785 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 15:21:27.785 [140736053751288] DEBUG - [HCl#2] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=556&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Dec 22, 2025 15:21:27.786 [140736053587448] DEBUG - [HttpClient/HCl#2] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=556&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+Dec 22, 2025 15:21:27.786 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 15:21:27.786 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 15:21:27.786 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+Dec 22, 2025 15:21:27.786 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+Dec 22, 2025 15:21:27.786 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+Dec 22, 2025 15:21:27.786 [140736152774968] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Dec 22, 2025 15:21:27.787 [140736152774968] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 15:21:27.801 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 15:21:27.801 [140736152774968] DEBUG - [FFMPEG] - no picture 
+Dec 22, 2025 15:21:27.809 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 15:21:27.818 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Dec 22, 2025 15:21:27.825 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Dec 22, 2025 15:21:27.832 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Dec 22, 2025 15:21:27.839 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 0
+Dec 22, 2025 15:21:27.846 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 15:21:27.856 [140736152774968] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+Dec 22, 2025 15:21:27.864 [140736152774968] DEBUG - [FFMPEG] - All info found
+Dec 22, 2025 15:21:27.865 [140736152774968] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 439199 bytes read:474948 seeks:2 frames:25
+Dec 22, 2025 15:21:27.865 [140736152774968] DEBUG - [MI]  * 68b56b1d3b55c3a40a635d13c50f73f19b357882 [mkv h264/ac3] Duration: 65023ms, 1280x720 (1.777778) 23.976fps, bitrate=4797kbps, audio channels=6, optimizedForStreaming=0 ("/data/Filmek/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD/Minta/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD.mkv")
+Dec 22, 2025 15:21:27.865 [140736152774968] DEBUG - [MI] Chapters had generic titles, clearing.
+Dec 22, 2025 15:21:27.865 [140736152774968] DEBUG - [MI] Closing input file: "/data/Filmek/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD/Minta/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD.mkv"
+Dec 22, 2025 15:21:27.865 [140736152774968] DEBUG - Committing media stream changes for part 664
+Dec 22, 2025 15:21:27.866 [140736152774968] DEBUG - Updating media item 664, size=38991144, metadata_item_id=556
+Dec 22, 2025 15:21:27.866 [140736152774968] DEBUG - Updating part with ID=664 [/data/Filmek/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD/Minta/A.nagy.arviz.2025.WEBRip.720p.x264.DD5.1.HUN-mHD.mkv]
+Dec 22, 2025 15:21:27.867 [140736053751288] DEBUG - [HCl#3] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=556&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+Dec 22, 2025 15:21:27.868 [140736053587448] DEBUG - [HttpClient/HCl#3] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=556&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+Dec 22, 2025 15:21:27.868 [140736053751288] DEBUG - [HCl#4] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=556&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=idle
+Dec 22, 2025 15:21:27.868 [140736053587448] DEBUG - [HttpClient/HCl#4] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=556&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+Dec 22, 2025 15:21:27.869 [140736152774968] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Dec 22, 2025 15:21:27.869 [140736152774968] DEBUG - [HCl#5] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Dec 22, 2025 15:21:27.870 [140736053587448] DEBUG - [HttpClient/HCl#5] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+Dec 22, 2025 15:21:27.870 [140736152774968] DEBUG - Updating metadata item (save) (A nagy árvíz) with ID 556

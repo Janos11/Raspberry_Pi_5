@@ -1,0 +1,13 @@
+services:
+  openaudible:
+    build: .
+    container_name: openaudible
+    environment:
+      - DISPLAY=${DISPLAY}            # Use the host's display for X11 forwarding
+    volumes:
+      - ~/docker/openaudible/data:/OpenAudible-2.0.5/data    # Store data (audiobooks, settings)
+      - ~/docker/openaudible/config:/OpenAudible-2.0.5/config  # Store OpenAudible configuration
+      - /tmp/.X11-unix:/tmp/.X11-unix  # Allow Docker container to access X11 server
+    network_mode: host                 # Use host's networking (necessary for X11 to work)
+    privileged: true                    # Allow access to display
+

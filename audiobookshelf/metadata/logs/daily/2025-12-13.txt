@@ -1,0 +1,47 @@
+{"timestamp":"2025-12-13 18:47:42.288","source":"Server.js:220","message":"=== Starting Server ===","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:47:42.289","source":"Server.js:143","message":"[Server] Init v2.31.0","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:47:42.290","source":"Server.js:144","message":"[Server] Node.js Version: v20.19.6","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:47:42.290","source":"Server.js:145","message":"[Server] Platform: linux","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:47:42.291","source":"Server.js:146","message":"[Server] Arch: arm64","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:47:42.296","source":"Database.js:217","message":"[Database] Initializing db at \"/config/absdatabase.sqlite\"","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:47:42.338","source":"Database.js:292","message":"[Database] Loading extension /usr/local/lib/nusqlite3/libnusqlite3.so","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:47:42.339","source":"Database.js:300","message":"[Database] Successfully loaded extension /usr/local/lib/nusqlite3/libnusqlite3.so","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:47:42.340","source":"Database.js:269","message":"[Database] Db supports unaccent and unicode foldings","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:47:42.340","source":"Database.js:273","message":"[Database] Db connection was successful","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:47:42.350","source":"MigrationManager.js:82","message":"[MigrationManager] Database is already up to date.","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:47:42.510","source":"Database.js:201","message":"[Database] Db initialized with models: user, session, apiKey, library, libraryFolder, book, podcast, podcastEpisode, libraryItem, mediaProgress, series, bookSeries, author, bookAuthor, collection, collectionBook, playlist, playlistMediaItem, device, playbackSession, feed, feedEpisode, setting, customMetadataProvider, mediaItemShare","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:47:42.555","source":"Database.js:207","message":"[Database] running ANALYZE","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:47:42.571","source":"Database.js:209","message":"[Database] ANALYZE completed","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:47:42.572","source":"LogManager.js:71","message":"[LogManager] Init current daily log filename: 2025-12-13.txt","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:47:42.582","source":"BackupManager.js:290","message":"[BackupManager] 0 Backups Found","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:47:42.582","source":"BackupManager.js:77","message":"[BackupManager] Auto Backups are disabled","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:47:42.610","source":"Server.js:423","message":"Listening on port :80","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:55:30.448","source":"Server.js:220","message":"=== Starting Server ===","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:55:30.449","source":"Server.js:143","message":"[Server] Init v2.31.0","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:55:30.449","source":"Server.js:144","message":"[Server] Node.js Version: v20.19.6","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:55:30.449","source":"Server.js:145","message":"[Server] Platform: linux","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:55:30.450","source":"Server.js:146","message":"[Server] Arch: arm64","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:55:30.455","source":"Database.js:217","message":"[Database] Initializing db at \"/config/absdatabase.sqlite\"","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:55:30.498","source":"Database.js:292","message":"[Database] Loading extension /usr/local/lib/nusqlite3/libnusqlite3.so","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:55:30.499","source":"Database.js:300","message":"[Database] Successfully loaded extension /usr/local/lib/nusqlite3/libnusqlite3.so","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:55:30.499","source":"Database.js:269","message":"[Database] Db supports unaccent and unicode foldings","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:55:30.500","source":"Database.js:273","message":"[Database] Db connection was successful","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:55:30.506","source":"MigrationManager.js:82","message":"[MigrationManager] Database is already up to date.","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:55:30.676","source":"Database.js:201","message":"[Database] Db initialized with models: user, session, apiKey, library, libraryFolder, book, podcast, podcastEpisode, libraryItem, mediaProgress, series, bookSeries, author, bookAuthor, collection, collectionBook, playlist, playlistMediaItem, device, playbackSession, feed, feedEpisode, setting, customMetadataProvider, mediaItemShare","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:55:30.726","source":"Database.js:207","message":"[Database] running ANALYZE","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:55:30.740","source":"Database.js:209","message":"[Database] ANALYZE completed","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:55:30.742","source":"LogManager.js:71","message":"[LogManager] Init current daily log filename: 2025-12-13.txt","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:55:30.753","source":"BackupManager.js:290","message":"[BackupManager] 0 Backups Found","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:55:30.754","source":"BackupManager.js:77","message":"[BackupManager] Auto Backups are disabled","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:55:30.782","source":"Server.js:423","message":"Listening on port :80","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:56:05.582","source":"Server.js:432","message":"[Server] Initializing new server","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:56:05.583","source":"Server.js:436","message":"[Server] Creating root user with no password","levelName":"WARN","level":3}
+{"timestamp":"2025-12-13 18:56:27.898","source":"LocalAuthStrategy.js:107","message":"[LocalAuth] Failed login attempt for username \"123456\" from ip ::ffff:192.168.1.121 (User not found)","levelName":"ERROR","level":4}
+{"timestamp":"2025-12-13 18:56:39.781","source":"LocalAuthStrategy.js:107","message":"[LocalAuth] Failed login attempt for username \"root\" from ip ::ffff:192.168.1.121 (Root user has no password set)","levelName":"ERROR","level":4}
+{"timestamp":"2025-12-13 18:56:41.338","source":"LocalAuthStrategy.js:107","message":"[LocalAuth] Failed login attempt for username \"root\" from ip ::ffff:192.168.1.121 (Root user has no password set)","levelName":"ERROR","level":4}
+{"timestamp":"2025-12-13 18:57:08.709","source":"LocalAuthStrategy.js:107","message":"[LocalAuth] Failed login attempt for username \"root\" from ip ::ffff:192.168.1.121 (Root user has no password set)","levelName":"ERROR","level":4}
+{"timestamp":"2025-12-13 18:57:16.298","source":"LocalAuthStrategy.js:74","message":"[LocalAuth] User \"root\" logged in from ip ::ffff:192.168.1.121","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 18:57:16.636","source":"SocketAuthority.js:176","message":"[SocketAuthority] Socket Connected to /audiobookshelf/socket.io ELY43wr6d3M9RJwlAAAB","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 22:53:49.770","source":"LocalAuthStrategy.js:74","message":"[LocalAuth] User \"root\" logged in from ip ::ffff:192.168.1.119","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 22:53:49.906","source":"SocketAuthority.js:176","message":"[SocketAuthority] Socket Connected to /audiobookshelf/socket.io BOXp9mR5mRxgG2bjAAAD","levelName":"INFO","level":2}
+{"timestamp":"2025-12-13 22:54:11.748","source":"SocketAuthority.js:207","message":"[SocketAuthority] Socket BOXp9mR5mRxgG2bjAAAD disconnected from client \"root\" after 21842ms (Reason: transport close)","levelName":"INFO","level":2}
