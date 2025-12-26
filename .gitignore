@@ -1,2 +1,7 @@
 pihole/etc-pihole
 battery_research
+plex/config/
+audiobookshelf/config/
+audiobookshelf/metadata/
+transmission/config
+
