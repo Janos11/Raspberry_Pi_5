@@ -28,6 +28,7 @@ It showcases my ability to self-start, learn new technologies, and organize a gr
 
 ## Docker Projects
 - Containerized services:
+  - [Transmission](notebooks/transmission_Docker_Raspberry_Pi.md)
   - [Plex](notebooks/plex_Docker_install_guide.md)
   - [Samba](notebooks/samba_setup_pi.md)
   - [Pi Hole](notebooks/pi_hole_setup.md)
