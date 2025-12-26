@@ -1,0 +1,17 @@
+services:
+  transmission:
+    image: lscr.io/linuxserver/transmission:latest
+    container_name: transmission
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/London
+    volumes:
+      - /home/pi/docker/transmission/config:/config
+      - /home/pi/Downloads:/watch # Transmission will automatically detect .torrent files
+      - /media/pi/8ad4b8e9-3b97-40e2-9b43-1458931b15a1/home/janos/Filmek:/downloads
+    ports:
+      - 9091:9091
+      - 51413:51413
+      - 51413:51413/udp
+    restart: unless-stopped
