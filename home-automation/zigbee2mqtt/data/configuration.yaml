@@ -1,0 +1,30 @@
+homeassistant:
+  enabled: true
+mqtt:
+  base_topic: zigbee2mqtt
+  server: mqtt://mosquitto:1883
+serial:
+  port: tcp://192.168.1.72:6638
+  adapter: ezsp
+frontend:
+  enabled: true
+  port: 8080
+advanced:
+  network_key:
+    - 200
+    - 136
+    - 169
+    - 133
+    - 184
+    - 107
+    - 114
+    - 224
+    - 62
+    - 1
+    - 133
+    - 224
+    - 41
+    - 146
+    - 55
+    - 201
+version: 5

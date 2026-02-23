@@ -1,0 +1,69 @@
+
+services:
+
+  # ------------------------------------------------------------
+  # MQTT Broker
+  # ------------------------------------------------------------
+  mosquitto:
+    image: eclipse-mosquitto:latest
+    container_name: mosquitto
+    restart: unless-stopped
+
+    # Mount configuration and persistent storage
+    volumes:
+      - ./mosquitto/config:/mosquitto/config
+      - ./mosquitto/data:/mosquitto/data
+      - ./mosquitto/log:/mosquitto/log
+
+    # Expose MQTT port
+    ports:
+      - "1883:1883"
+
+  # ------------------------------------------------------------
+  # Zigbee2MQTT (Ethernet/TCP)
+  # ------------------------------------------------------------
+  zigbee2mqtt:
+    image: koenkk/zigbee2mqtt:latest
+    container_name: zigbee2mqtt
+    restart: unless-stopped
+
+    # Wait for MQTT broker to start first
+    depends_on:
+      - mosquitto
+
+    # Persistent data
+    volumes:
+      - ./zigbee2mqtt/data:/app/data
+
+    # Web frontend
+    ports:
+      - "8080:8080"
+
+    # Environment variables
+    environment:
+      - TZ=Europe/London
+
+    # TCP connection — no USB devices needed
+    # The serial config is defined in zigbee2mqtt/data/configuration.yaml:
+    # serial:
+    #   port: tcp://192.168.1.72:6638
+    #   adapter: ezsp
+
+  # ------------------------------------------------------------
+  # Home Assistant
+  # ------------------------------------------------------------
+  homeassistant:
+    image: ghcr.io/home-assistant/home-assistant:stable
+    container_name: homeassistant
+    restart: unless-stopped
+
+    # Host networking is required for discovery integrations
+    network_mode: host
+
+    # Config folder
+    volumes:
+      - ./homeassistant:/config
+
+    # Environment variables
+    environment:
+      - TZ=Europe/London

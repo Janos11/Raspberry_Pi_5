@@ -17,6 +17,15 @@ home-automation/homeassistant/home-assistant*.log
 home-automation/homeassistant/secrets.yaml
 home-automation/homeassistant/.HA_VERSION
 home-automation/homeassistant/.ha_run.lock
+home-automation/homeassistant/blueprints/automation/homeassistant/motion_light.yaml
+home-automation/homeassistant/blueprints/automation/homeassistant/notify_leaving_zone.yaml
+home-automation/homeassistant/blueprints/script/homeassistant/confirmable_notification.yaml
+home-automation/homeassistant/home-assistant.log.1
+home-automation/homeassistant/home-assistant.log.fault
+home-automation/homeassistant/home-assistant_v2.db-shm
+home-automation/homeassistant/home-assistant_v2.db-wal
+home-automation/homeassistant/scenes.yaml
+home-automation/homeassistant/scripts.yaml
 
 # Optional: cache / backup / runtime files
 home-automation/homeassistant/*.db
@@ -29,13 +38,17 @@ home-automation/zigbee2mqtt/data/database.db
 home-automation/zigbee2mqtt/data/coordinator_backup.json
 home-automation/zigbee2mqtt/data/log/
 home-automation/zigbee2mqtt/data/*.log
+home-automation/zigbee2mqtt/data/configuration_backup_v1.yaml
+home-automation/zigbee2mqtt/data/configuration_backup_v2.yaml
+home-automation/zigbee2mqtt/data/configuration_backup_v3.yaml
+home-automation/zigbee2mqtt/data/configuration_backup_v4.yaml
+home-automation/zigbee2mqtt/data/state.json
 
 # --------------------------------------
 # Mosquitto
 # --------------------------------------
 home-automation/mosquitto/log/
 home-automation/mosquitto/data/
-home-automation/mosquitto/config/mosquitto.conf
 
 # --------------------------------------
 # OS / Editor files
