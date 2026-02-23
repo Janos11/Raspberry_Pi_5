@@ -5,3 +5,50 @@ audiobookshelf/config/
 audiobookshelf/metadata/
 transmission/config
 
+
+home-automation/.*
+
+# --------------------------------------
+# Home Assistant
+# --------------------------------------
+home-automation/homeassistant/.storage/
+home-automation/homeassistant/home-assistant*.db
+home-automation/homeassistant/home-assistant*.log
+home-automation/homeassistant/secrets.yaml
+home-automation/homeassistant/.HA_VERSION
+home-automation/homeassistant/.ha_run.lock
+
+# Optional: cache / backup / runtime files
+home-automation/homeassistant/*.db
+home-automation/homeassistant/*.log
+
+# --------------------------------------
+# Zigbee2MQTT
+# --------------------------------------
+home-automation/zigbee2mqtt/data/database.db
+home-automation/zigbee2mqtt/data/coordinator_backup.json
+home-automation/zigbee2mqtt/data/log/
+home-automation/zigbee2mqtt/data/*.log
+
+# --------------------------------------
+# Mosquitto
+# --------------------------------------
+home-automation/mosquitto/log/
+home-automation/mosquitto/data/
+home-automation/mosquitto/config/mosquitto.conf
+
+# --------------------------------------
+# OS / Editor files
+# --------------------------------------
+*.swp
+*.swo
+*.DS_Store
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# --------------------------------------
+# Other local runtime
+# --------------------------------------
+*.env

@@ -17,6 +17,7 @@ It showcases my ability to self-start, learn new technologies, and organize a gr
 ---
 
 ## Latest Updates
+- Installed Home Assistant
 - Installed Portainer for container management.
 - Solved a Raspberry Pi wifi power save issue, details [here](notebooks/raspberry-pi-wifi-power-save-issue.md)
 - Installed [Plex Media Server](notebooks/plex_Docker_install_guide.md)
@@ -33,7 +34,7 @@ It showcases my ability to self-start, learn new technologies, and organize a gr
   - [Samba](notebooks/samba_setup_pi.md)
   - [Pi Hole](notebooks/pi_hole_setup.md)
   - Portainer
-  - Home Assistant (future)
+  - [Home Assistant](notebooks/home_automation_docker_zigbee_setup.md)
 - All configurations stored with Docker Compose for reproducibility.
 - [See Docker setup details](notebooks/docker_setup_rpi_5.md)
 
