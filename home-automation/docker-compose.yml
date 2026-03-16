@@ -56,6 +56,7 @@ services:
     image: ghcr.io/home-assistant/home-assistant:stable
     container_name: homeassistant
     restart: unless-stopped
+    privileged: true
 
     # Host networking is required for discovery integrations
     network_mode: host
@@ -63,7 +64,8 @@ services:
     # Config folder
     volumes:
       - ./homeassistant:/config
-
+      - /etc/localtime:/etc/localtime:ro
+      - /run/dbus:/run/dbus:ro
     # Environment variables
     environment:
       - TZ=Europe/London

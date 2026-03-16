@@ -5,11 +5,14 @@ mqtt:
   server: mqtt://mosquitto:1883
 serial:
   port: tcp://192.168.1.72:6638
-  adapter: ezsp
+  baudrate: 115200
+  adapter: ember
+  disable_led: false
 frontend:
   enabled: true
   port: 8080
 advanced:
+  transmit_power: 20
   network_key:
     - 100
     - 49
@@ -28,3 +31,6 @@ advanced:
     - 176
     - 118
 version: 5
+devices:
+  '0xbc8d7efffe5bf952':
+    friendly_name: '0xbc8d7efffe5bf952'

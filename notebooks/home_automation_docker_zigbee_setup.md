@@ -229,9 +229,27 @@ Home Assistant: http://`<pi-ip>`{=html}:8123
 
 Zigbee2MQTT: http://`<pi-ip>`{=html}:8080
 
+-----------------------------------------------------------------------
+# 8. Connect Home Assistant to MQTT
+
+In Home Assistant:
+
+Settings
+
+    → Devices & Services
+    → Add Integration
+    → MQTT
+
+Use:
+Broker: <pi-ip>
+Port: 1883
+
+After connecting you should see:
+MQTT: Connected
+
 ------------------------------------------------------------------------
 
-# 8. Pairing Devices
+# 9. Pairing Devices
 
 1.  Open Zigbee2MQTT UI
 2.  Click "Permit Join"
@@ -240,7 +258,7 @@ Zigbee2MQTT: http://`<pi-ip>`{=html}:8080
 
 ------------------------------------------------------------------------
 
-# 9. Git Best Practices
+# 10. Git Best Practices
 
 Add .gitignore:
 
@@ -253,7 +271,7 @@ Commit everything else.
 
 ------------------------------------------------------------------------
 
-# 10. Recommended Next Steps
+# 11. Recommended Next Steps
 
 -   Add MQTT authentication
 -   Add automatic backups

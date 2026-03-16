@@ -1,3 +1,10 @@
+# Pane iframe to access portainer from home assistant
+panel_iframe:
+  portainer:
+    url: https://192.168.1.121:9443
+    title: "Portainer"
+    icon: mdi:docker
+    require_admin: true
 
 # Loads default set of integrations. Do not remove.
 default_config:
