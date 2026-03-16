@@ -26,6 +26,7 @@ home-automation/homeassistant/home-assistant_v2.db-shm
 home-automation/homeassistant/home-assistant_v2.db-wal
 home-automation/homeassistant/scenes.yaml
 home-automation/homeassistant/scripts.yaml
+home-automation/homeassistant/tts/
 
 # Optional: cache / backup / runtime files
 home-automation/homeassistant/*.db
@@ -49,6 +50,11 @@ home-automation/zigbee2mqtt/data/state.json
 # --------------------------------------
 home-automation/mosquitto/log/
 home-automation/mosquitto/data/
+
+# --------------------------------------
+# container management
+# --------------------------------------
+portainer/
 
 # --------------------------------------
 # OS / Editor files
